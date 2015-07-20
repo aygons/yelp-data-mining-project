@@ -1,0 +1,522 @@
+business_id,name,categories,stars,review_count,neighborhoods,longitude,latitude,Price Range,AcceptCreditCard,Parking
+usSROUMiAgPcxV3Ym0OxMQ,Mitchell's Fish Market,"['Seafood', 'Restaurants']",4,73,['Homestead'],-79.91808943,40.40887838,3,1,1
+_jsJFrAmFVPRio0eEVExbA,McDonald's,"['Burgers', 'Fast Food', 'Restaurants']",2.5,4,['Bellevue'],-80.06235,40.492067,,,0
+Rjx8GcWuCzfVsKC5iPIcQA,Remember When,"['Food', 'Ice Cream & Frozen Yogurt']",3.5,8,['Windgap'],-80.077006,40.459082,1,1,1
+s74Tq6WKV1b91UFRr7ch7g,Pistella Beer Distributors,"['Food', 'Beer, Wine & Spirits']",4,11,['Friendship'],-79.931884,40.463717,2,1,1
+BG4N0V93wml9kaU6YYRxRA,Giant Eagle,"['Food', 'Grocery', 'Shopping', 'Drugstores']",2.5,10,['Shadyside'],-79.921053,40.458577,2,1,1
+83_p9vIqOq1TUIf3_GD7bA,Enrico's Tazza D'oro Cafe & Espresso Bar,"['Food', 'Coffee & Tea', 'Cafes', 'Restaurants']",4.5,92,['Highland Park'],-79.918862,40.474884,1,1,1
+bZcqORBnVApUA2-SEn7VEQ,McDonald's,"['Burgers', 'Fast Food', 'Restaurants']",2,6,['Shadyside'],-79.9187095,40.4584723,1,1,0
+YMEtEsUDQKOYJOcE5Fx3gQ,Food Glorious Food,"['Bakeries', 'Food', 'Specialty Schools', 'Education', 'Cooking Schools']",5,24,['Highland Park'],-79.919627,40.475405,2,1,1
+wfCLz9-aeShbPB7CaTY-qQ,Whole Foods Market,"['Food', 'Specialty Food', 'Grocery']",3.5,90,['Shadyside'],-79.9288302,40.45851065,3,1,1
+EPILrBqmgQxd-R1gZ1EWJg,Frick Park Market,"['Food', 'Grocery']",4.5,10,['Point Breeze'],-79.90508,40.4472949,1,1,1
+#NAME?,East End Food Co-Op,"['Health Markets', 'Food', 'Vegetarian', 'Restaurants', 'Specialty Food']",4.5,60,['Point Breeze'],-79.8954753,40.4481991,2,1,1
+2PfavOTufsPCRdYm-bFcpw,Page Dairy Mart,"['Food', 'Ice Cream & Frozen Yogurt']",4.5,53,['South Side'],-79.9558863,40.4115087,1,0,1
+VkqKyq09rDYMhFk5nElWWA,Bishop's Pizza,"['Food', 'Ice Cream & Frozen Yogurt', 'Pizza', 'Restaurants']",3,4,['Carrick'],-79.986911,40.393115,2,1,
+BbIh5NTizhV4Fq_mLmNkpg,Long John Silver's Inc,"['Seafood', 'Restaurants']",1.5,3,['Carrick'],-79.98224,40.387167,1,1,0
+Z7HNl4Gz00cA0_wt0S-vSw,BreadWorks Bakery,"['Bakeries', 'Food', 'Restaurants']",4.5,12,['North Side'],-80.0190648,40.4621686,1,0,1
+OjzR6hUYasFReo0vhVn0-w,Teutonia Mannerchor,"['German', 'Beer, Wine & Spirits', 'Food', 'Restaurants']",4,6,['North Side'],-79.994957,40.455167,2,1,
+zq--BGVHu7_fb1VHEwg2ow,Caruso Beer Distributor,"['Food', 'Beer, Wine & Spirits']",4,7,['North Side'],-80.0105349,40.4566994,2,1,1
+cZl7-Um4HiJWFgDVmMan2Q,Giant Eagle,"['Food', 'Grocery']",2,19,['North Side'],-80.0009426,40.4509987,2,1,1
+I9-Ei8_KYtMjbixNJSCvwA,The Isaly Company,"['Food', 'Ice Cream & Frozen Yogurt', 'Delis', 'Restaurants']",3.5,3,['North Side'],-79.9993338,40.4534946,1,1,0
+obAdXU3RULuUOww759_h_w,Tom Friday's Market,"['Food', 'Specialty Food', 'Meat Shops']",5,6,['Brighton Heights'],-80.0414427,40.4812123,1,1,1
+YUZVBdGmagwXV-yOhR-1GQ,Miller's Seafood House,"['Seafood', 'Restaurants']",2.5,10,['Brighton Heights'],-80.0416964,40.4851129,2,1,1
+N2DwycuZl95miWf39Yskaw,Schorr Bakery,"['Bakeries', 'Food']",3.5,3,['Observatory Hill'],-80.018177,40.489973,2,0,0
+9NL2GL4jSPVj9SKijH5PqA,Kuhn's Market,"['Food', 'Grocery']",4,15,"['Dormont', 'Banksville']",-80.0434133,40.3996765,2,1,1
+WY6FFxpa6ztwDH5OhS6WDw,Potomac Bakery,"['Bakeries', 'Food']",4,13,['Dormont'],-80.0347424,40.3954709,2,1,1
+LV_OCiR9rOHVHgdhbpqw2Q,Scoops On Beverly,"['Food', 'Ice Cream & Frozen Yogurt']",4,9,[],-80.0500275,40.3885545,1,1,1
+cRv7pLvIe3eI0efndQBcLg,Banksville Beer Inc,"['Food', 'Beer, Wine & Spirits']",2.5,3,['Banksville'],-80.0433063,40.401054,2,1,0
+ORTRrw3ClZ0Ld0LgY1H_5g,Eat'n Park Restaurant,"['Fast Food', 'American (Traditional)', 'Restaurants']",3.5,15,['Dormont'],-80.033585,40.395871,1,1,1
+9aw0t0rlACKkMaxsX0KlKA,Dairy Queen,"['Food', 'Ice Cream & Frozen Yogurt', 'Fast Food', 'Restaurants']",4,5,[],-80.0466445,40.3958828,1,1,1
+Tb7hQ37UFA2QFaMwjFieQw,Arby's,"['Fast Food', 'Restaurants']",2.5,5,['Banksville'],-80.03063,40.414716,,1,
+21hqlWgjmNgW4pBZJDuziQ,Market On Broadway IGA,"['Food', 'Grocery']",3,5,['Beechview'],-80.024985,40.409944,1,1,1
+WxN-aV_puFazt3UGNLlw0A,McBroom Distributor,"['Food', 'Beer, Wine & Spirits', 'Event Planning & Services', 'Caterers']",3.5,8,[],-79.893463,40.431523,2,1,1
+JL5B_s1EoN4zIru4JSw4Qg,Taco Bell,"['Fast Food', 'Mexican', 'Tex-Mex', 'Restaurants']",3.5,4,[],-79.890649,40.427135,1,1,0
+_8xYpVdKMllhuuf4PIvq8w,Giant Eagle,"['Food', 'Grocery']",3,8,[],-79.8873652,40.42304,2,1,1
+K8Ebs8G1rwc3DBdznHvDxg,Wendy's,"['Burgers', 'Fast Food', 'Restaurants']",3,4,[],-79.8886201,40.4254343,1,1,
+tRhwP2jCg_lI1BrjdscNbw,Crouse Wayne Beer Distributor,"['Food', 'Beer, Wine & Spirits']",4.5,3,[],-80.0594902,40.3915059,2,1,0
+zvqxmVZgJ0XpJfb1Xn5jKQ,Giant Eagle,"['Food', 'Grocery']",3.5,8,[],-80.065824,40.392484,2,1,0
+uwiD9jxs09xxXG0by_xKuA,Bruegger's Bagels,"['Food', 'Sandwiches', 'Bagels', 'Breakfast & Brunch', 'Restaurants']",3,5,[],-80.061579,40.392551,1,1,0
+f0eAe5PZMy_MEvxEEBYAcQ,Starbucks,"['Food', 'Coffee & Tea']",4.5,6,[],-80.065824,40.392484,2,1,1
+zhQzX3CxM0tdBXwGUWmxGA,Better-Maid Donut Co,"['Bakeries', 'Food', 'Donuts']",4.5,17,['Crafton Heights'],-80.047466,40.441776,1,0,1
+ZS7-I04iDm4oRP_GJsJqrA,Boston Market,"['Event Planning & Services', 'American (Traditional)', 'Caterers', 'Comfort Food', 'Restaurants']",4,5,['Greentree'],-80.045902,40.418106,1,1,1
+xSYGuHecEWP7At0HYbO5Jg,Einstein Bros Bagels,"['Food', 'Bagels']",3,9,['Greentree'],-80.045329,40.418425,2,1,1
+7ijQJV72aBrEoJCtTBCHxw,Starbucks,"['Food', 'Coffee & Tea']",3,13,['Downtown'],-80.0022117,40.4401998,2,1,1
+z4cCguoHdU48pj6sXMIzqg,Original Fish Market,"['Seafood', 'Restaurants']",2.5,74,['Downtown'],-79.994852,40.4441681,3,1,1
+imzKM9-mgN1Yk_RIXx3IgA,Sunseri Jimmy & Nino Co,"['Food', 'Ethnic Food', 'Specialty Food', 'Restaurants', 'Italian']",3.5,16,['Strip District'],-79.984628,40.450964,1,1,1
+9D4PMia-8WqCYXnr7TM0Pw,Labad's,"['Food', 'Grocery']",4.5,16,['Strip District'],-79.9854235,40.4503182,1,1,1
+4LcFKTr6Ah87VcxW2z5e6w,McDonald's,"['Burgers', 'Fast Food', 'Restaurants']",1.5,3,['Downtown'],-79.9989518,40.4422762,1,1,0
+buVALudg30kgkDusqB3yJw,Reyna Foods,"['Food', 'Grocery', 'Mexican', 'Restaurants']",4.5,76,['Strip District'],-79.9834035,40.4514856,1,1,1
+wHi8ODv7TGmeUB02XoX-mA,Roland's Seafood Grill,"['Seafood', 'Restaurants']",2.5,125,['Strip District'],-79.9842886,40.4505742,2,1,1
+J7I85lTCEGr9-qp6AXPUjQ,Nicholas Coffee Co,"['Food', 'Coffee & Tea']",4.5,46,['Downtown'],-80.0030696,40.441253,1,1,1
+DHAq_WmQwjk7gviKXwqnjg,New Sambok Oriental Foods,"['Food', 'Grocery']",4,16,['Strip District'],-79.9852163,40.4504367,1,1,1
+shrMOQmX_SX-KualwYoAzA,Au Bon Pain Co Inc,"['Bakeries', 'Food']",2.5,6,['Strip District'],-79.99086,40.44756,1,1,0
+SWzCFTM7KHc-MncD6xxOYQ,La Prima Espresso Co,"['Food', 'Coffee & Tea']",4.5,44,['Strip District'],-79.9828538,40.4514869,1,1,1
+lVB0HB2PxC9OTtMcz0wagA,Lotus Food Co,"['Food', 'Grocery']",4,49,['Strip District'],-79.986418,40.449767,1,1,1
+3jPNfiRYdu-tlJM4OGF3og,Cool Beans Coffee Co,"['Food', 'Coffee & Tea']",3,3,['Downtown'],-79.994009,40.444318,,,
+41CXLCeB8z2oNdIOvnrzIA,Redfin Blues,"['Seafood', 'Restaurants']",2.5,37,[],-79.9776291,40.4639257,2,1,1
+YKQ09HGeV3_oiKp8NK7Zqg,Kim DO Oriental Grocery,"['Food', 'Grocery']",4,4,['Strip District'],-79.9845049,40.4504243,1,1,1
+gFT2yXDXJ1qfuGOSfSU5Bw,Mon Aimee Chocolat,"['Food', 'Specialty Food', 'Chocolatiers & Shops']",4,51,['Strip District'],-79.983095,40.4518345,2,1,1
+cg8b1FGcl-Sytfa8UlCcjg,Einstein Bagels,"['Food', 'Bagels']",4,5,['Strip District'],-79.99086,40.44756,1,1,0
+UQSGL98JH8346Uv9B9Ec0g,Stan's Market,"['Food', 'Grocery']",3.5,15,['Strip District'],-79.9848298,40.4507069,1,1,1
+kj3qws3WSMgOotUeACSdFA,Klavon's Ice Cream Parlor,"['Food', 'Ice Cream & Frozen Yogurt']",4,59,['Strip District'],-79.9756691,40.4570059,1,1,1
+_aGVicux2dJm9sqzLSCJtg,Subway,"['Fast Food', 'Sandwiches', 'Restaurants']",3.5,3,['Downtown'],-79.9997165,40.4422522,1,1,
+tyXvO1G2qK3MUfaap30auw,Stamoolis Brothers Company,"['Food', 'Specialty Food', 'Grocery']",4.5,15,['Strip District'],-79.9833014,40.4512257,2,1,1
+niW0ggRVPW5fafcfImdK7w,Pennsylvania Macaroni Co,"['Food', 'Cheese Shops', 'Grocery', 'Meat Shops', 'Specialty Food']",4.5,115,['Strip District'],-79.9834614,40.4513551,2,1,1
+TASUnYvk_nvTUyKtroCJSA,Prestogeorge Fine Foods,"['Food', 'Coffee & Tea']",4.5,37,['Strip District'],-79.98572,40.450211,2,1,1
+#NAME?,Original Oyster House,"['Seafood', 'Restaurants']",3,67,['Downtown'],-80.0019823,40.4409393,1,0,1
+E_-4Y9vn-u-dPgp33TLRUQ,Starbucks,"['Food', 'Coffee & Tea']",2.5,7,['Bloomfield'],-79.947532,40.461189,2,1,1
+Msfys8NloDpAsWmhvC9T6A,Paddy Cake Bakery,"['Bakeries', 'Food']",3.5,15,['Bloomfield'],-79.947655,40.4612539,1,1,1
+DsxLIr-b6WlDn9YNsVBu_A,Groceria Italiana,"['Food', 'Grocery', 'Delis', 'Restaurants']",4.5,21,['Bloomfield'],-79.948546,40.4618603,1,1,0
+KH6stvNdq_aV0HvKw8P5yA,"Donatelli's Italian Food Center, Inc","['Food', 'Grocery', 'Delis', 'Restaurants']",3.5,12,['Bloomfield'],-79.949333,40.462158,1,1,1
+YTqSkgOiiI9HG3hNH7ovfg,Lombardozzi's Restaurant,"['Seafood', 'Restaurants', 'Italian']",3.5,15,['Bloomfield'],-79.9471799,40.4606393,2,1,1
+3_3yJMo2dTPeq8woOW69IA,Twisters Soft Serve Ice Cream,"['Food', 'Ice Cream & Frozen Yogurt']",4,10,['Bloomfield'],-79.9541124,40.4647058,1,0,0
+uOwuJJhGaiAzuaDY7-o14g,Boston Market,"['Event Planning & Services', 'American (Traditional)', 'Caterers', 'Comfort Food', 'Restaurants']",3.5,13,['Bloomfield'],-79.941471,40.455568,1,1,1
+DEH4worm2017xT3KHLoyAw,Kribel's Bakery,"['Bakeries', 'Food']",3.5,10,['Brookline'],-80.022591,40.395242,2,1,1
+gCiKiqPGAC_ZVt5bBcwnrw,Pitaland,"['Bakeries', 'Food']",4.5,25,['Brookline'],-80.022086,40.394874,1,1,1
+rbg3POnoegWx0RQ0KGd0sA,Party Cake Shop,"['Bakeries', 'Food']",4,13,['Brookline'],-80.021538,40.394482,2,1,1
+dpRsK3JyaD3GKorVWzQUmA,Wendy's,"['Burgers', 'Fast Food', 'Restaurants']",3,4,['Beechview'],-80.024316,40.400323,1,1,1
+vWnwaD-kykqiEc2Q0hbYsw,McDonald's,"['Burgers', 'Fast Food', 'Restaurants']",1.5,5,['Beechview'],-80.0266142,40.3989335,1,1,0
+xUf11yTcoRagwNiJcY8GAA,McDonald's,"['Burgers', 'Fast Food', 'Restaurants']",1,3,['Greentree'],-80.0502872,40.4256974,2,1,
+7FRn0CFWQmZFu8bcEqrXMw,Potomac Bakery,"['Bakeries', 'Food']",4,9,[],-80.044391,40.380869,1,1,1
+DJKpwLp4mISNDNDpNz67tw,Uptown Coffee,"['Food', 'Coffee & Tea']",4,27,[],-80.0448122,40.3794554,1,1,1
+1qUYk564SajvwTtkNM6KJA,The Coffee Tree Roasters,"['Food', 'Coffee & Tea']",3.5,66,['Shadyside'],-79.9328199,40.4513702,1,1,1
+LHyGQnuWR2q44bsrw1ZLAg,Bagel Factory,"['Bakeries', 'Food', 'Bagels']",3.5,24,['Shadyside'],-79.930303,40.456766,1,1,1
+yWVY1Bq19lDxu3BP7_96EQ,Prantl's Bakery,"['Bakeries', 'Food', 'Desserts']",4,98,['Shadyside'],-79.932915,40.451668,1,1,1
+yYyWwqPiLJO7eWRt0g_PBg,Jitters Cafe,"['Food', 'Ice Cream & Frozen Yogurt', 'Coffee & Tea']",4,26,['Shadyside'],-79.932424,40.451832,1,1,1
+sQWSHCIH_HUT4HUXaxDaBA,Bruegger's Bagels,"['Food', 'Sandwiches', 'Bagels', 'Breakfast & Brunch', 'Restaurants']",3,11,['Shadyside'],-79.9357368,40.4507601,1,1,0
+rUQfZOengMpXFkLvJrNJ3g,The Inn on Negley,"['Food', 'Tea Rooms', 'Breakfast & Brunch', 'Bed & Breakfast', 'Hotels & Travel', 'Restaurants']",4.5,19,['Shadyside'],-79.931454,40.453359,3,1,1
+GRrvJchtxskNDsGYUPPzzg,Tokyo Japanese Food Store,"['Food', 'Grocery']",4,18,['Shadyside'],-79.9291471,40.4573354,2,1,1
+Tfysaq2SdZAc5_TyPpuyLA,Giant Eagle Market District,"['Food', 'Grocery']",3,62,['Shadyside'],-79.9346032,40.4563396,2,1,1
+Lgyc-00L5pAELhjwUjAz-w,Rite Aid,"['Food', 'Convenience Stores', 'Shopping', 'Drugstores']",3.5,5,['Shadyside'],-79.9335764,40.4511736,2,1,1
+TIPebazlAGJsp8zAwhNkcw,Le Mardi Gras,"['Bars', 'Food', 'Bagels', 'Dive Bars', 'Nightlife', 'Lounges']",4,39,['Shadyside'],-79.9346368,40.4512699,1,0,1
+rm1hBa1HPcLhUSwuincX2Q,Historic Sunnyledge Hotel of Shadyside,"['Food', 'Tea Rooms', 'Bed & Breakfast', 'Event Planning & Services', 'Hotels & Travel', 'Hotels', 'Restaurants']",3,7,['Shadyside'],-79.9373637,40.4477839,2,1,1
+mXHBxHrAJPnPWnm_OKuZTQ,Wendy's,"['Burgers', 'Fast Food', 'Restaurants']",2.5,14,['Bloomfield'],-79.937464,40.456954,1,1,1
+Q9BXMPu2HnRDMq9X_2rHrQ,China Palace,"['Food Delivery Services', 'Food', 'Caterers', 'Event Planning & Services', 'Asian Fusion', 'Restaurants']",3,61,['Shadyside'],-79.933919,40.450866,2,1,1
+jc23sKVXBHM8WNLeDE3Eug,Graham's Bakery,"['Bakeries', 'Food']",3,4,[],-80.034629,40.368716,,1,0
+Sr98G9lk8nWMGOoxO_fUQA,Signature Desserts,"['Bakeries', 'Food']",4.5,10,[],-80.013523,40.369099,2,1,1
+AK8T92URfkOUoTAVd7l2EA,Giant Eagle,"['Food', 'Grocery', 'Shopping', 'Drugstores']",3.5,5,[],-79.89384734,40.48821075,2,1,1
+I2qqSBe5sWwE9pkC6PgmqA,Coffee Tree Roasters the,"['Food', 'Coffee & Tea']",3.5,12,[],-79.883087,40.4887162,1,1,1
+5z1TluGqhwVYrN7ZZPDW6g,South Hills Brewing Supply,"['Tobacco Shops', 'Beer, Wine & Spirits', 'Shopping', 'Food', 'Do-It-Yourself Food']",4.5,6,['West End'],-80.054154,40.429825,2,1,1
+H5Qmurgkw8p7JGmZ8rxqoQ,Quick Stop Convenience Store Mini Mart,"['Food', 'Convenience Stores']",4.5,3,['Lawrenceville'],-79.966571,40.4618139,2,1,0
+T4_LFnGNke1yk3k2MJjiqA,Salonika Imports,"['Food', 'Grocery', 'Mediterranean', 'Restaurants']",4.5,4,['Lawrenceville'],-79.9675459,40.4646453,,1,1
+Km-96EyJSH93tUs9iToM-A,Rite Aid,"['Food', 'Convenience Stores', 'Shopping', 'Drugstores']",3.5,4,['Lawrenceville'],-79.964525,40.469264,2,1,1
+bwu0cUZfksuu-uzTPrrl2A,Church Brew Works,"['Food', 'Desserts', 'Breweries']",3.5,527,['Lawrenceville'],-79.96439362,40.46242905,2,1,1
+5K6TGz2q_3w2jGnuAjdi_Q,Bruegger's Bagels,"['Food', 'Sandwiches', 'Bagels', 'Breakfast & Brunch', 'Restaurants']",3.5,9,['South Side'],-79.980331,40.429021,1,1,1
+26HlCqrwTikf-n5FXRS8qw,Starbucks,"['Food', 'Coffee & Tea']",4,16,['South Side'],-79.9840362,40.428744,2,1,1
+XmJJQjudjE7bXZyFsH0ECw,CoGo's,"['Food', 'Grocery']",2,3,['South Side'],-79.9888768,40.428787,2,1,0
+ufIN_oA285Zivd-4szJKxQ,The Pretzel Shop,"['Food', 'American (Traditional)', 'Pretzels', 'Restaurants']",4.5,57,['South Side'],-79.9722262,40.4281555,1,0,1
+58AZ_aOhCWQqriwva1-gdw,South Side Beer Distributor,"['Food', 'Beer, Wine & Spirits']",2.5,3,['South Side'],-79.9777068,40.4289205,3,1,0
+_kPuX1OAC4QWb2NM9Fbhzw,S & S Candy & Cigar Co,"['Tobacco Shops', 'Food', 'Shopping', 'Candy Stores', 'Specialty Food']",4.5,4,['South Side'],-79.9763041,40.4287243,2,1,1
+7GDXpAS4LUSFmzmmm3EtuQ,Burger King,"['Fast Food', 'Restaurants']",2,19,['South Side'],-79.97969,40.428447,1,1,1
+LhjIfgnWyJLQ96zobHGLgQ,Dairy Queen,"['Food', 'Ice Cream & Frozen Yogurt']",3.5,4,['South Side'],-79.9854225,40.428834,2,1,1
+gVL0W9PqidrLTaESQ1xIvQ,Giant Eagle,"['Food', 'Grocery']",2.5,9,['South Side'],-79.976705,40.4310089,2,1,1
+pFkEafZFTRE-qgB3NYC48Q,Edward Marc Chocolatier,"['Food', 'Specialty Food', 'Candy Stores', 'Ice Cream & Frozen Yogurt']",3.5,6,['South Side'],-79.9816951,40.4289531,2,1,0
+p_wNn2SZ8iFtpVbetmUA_w,Beehive Coffee,"['Food', 'Vegetarian', 'Coffee & Tea', 'Breakfast & Brunch', 'Restaurants']",4,80,['South Side'],-79.9842819,40.4289537,1,1,1
+uPl2nKYL0uNqBqqeF2Rx7Q,KFC,"['Fast Food', 'Restaurants']",1.5,3,[],-80.0691228,40.4395816,,,
+hzR_4oyJLJp6kuD7w0ZARg,Beer World,"['Food', 'Beer, Wine & Spirits']",3.5,3,['West End'],-80.052727,40.429752,2,1,0
+vTnvE0fsPP4r1Eni7gufrQ,Taco Bell,"['Fast Food', 'Mexican', 'Tex-Mex', 'Restaurants']",2.5,6,['West End'],-80.055098,40.427386,1,1,1
+wSCWrEqPD0RgOepGIbUYnA,Giant Eagle,"['Food', 'Grocery']",3,16,['Greenfield'],-79.9288813,40.4219285,2,1,1
+qCg90xkk0VgdNF6IirZEPA,Bruegger's Bagels,"['Food', 'Sandwiches', 'Bagels', 'Breakfast & Brunch', 'Restaurants']",3,17,['Downtown'],-79.9964071,40.4402708,1,1,1
+P0kIWqaoOjIJEtJBydFvoA,Jean-Marc Chatellier's French Bakery,"['Bakeries', 'Food', 'Desserts']",4.5,77,['Millvale'],-79.9748789,40.4812838,2,1,1
+fnKjsT1rQKS9x0Zw35TwAw,The Tin Angel,"['Seafood', 'Restaurants']",3,18,"['Duquesne Heights', 'Mt. Washington']",-80.0182153,40.4378736,3,1,1
+UgBIcnR-WMAH4pezas0_yw,Difiore's Ice Cream Delite,"['Food', 'Ice Cream & Frozen Yogurt']",3,24,['Mt. Washington'],-80.0072284,40.4310764,1,0,1
+lr4Zti9WOHXWHu8Yp3zZkg,Fox's Pizza Den,"['Food', 'Juice Bars & Smoothies', 'Pizza', 'Restaurants']",4,4,['Mt. Washington'],-80.005301,40.426798,2,1,0
+wgSCc7Ut2C4OkmvoeSLIrQ,Grandview Saloon,"['Bars', 'Seafood', 'Wine Bars', 'Nightlife', 'Steakhouses', 'Restaurants']",3.5,56,['Duquesne Heights'],-80.0185522,40.4381226,2,1,1
+9oImwXLAn-DFppBrfbmkLg,Monterey Bay Fish Grotto,"['Seafood', 'Restaurants']",4,173,['Duquesne Heights'],-80.021242,40.439059,3,1,1
+OJBkDqbEl6JyN_7hJvCVfg,Kohli's Indian Imports,"['Food', 'Grocery']",4,12,['Oakland'],-79.948636,40.445132,1,1,1
+NtPR7xaSxkQTWW1HYGz56A,Rite Aid,"['Food', 'Convenience Stores', 'Shopping', 'Drugstores']",3,3,['Oakland'],-79.957054,40.440911,2,1,0
+aft5N5DwIaIzQzwKv7lLvg,Salem Halal Meats & Groceries,"['Food', 'Specialty Food', 'Grocery', 'Meat Shops']",4.5,11,['Oakland'],-79.953346,40.439978,1,1,1
+rroEVCHOX6sjZaAYTk6pSw,Salim's Middle Eastern Food Store,"['Food', 'Ethnic Food', 'Delis', 'Specialty Food', 'Restaurants']",4.5,31,['Bloomfield'],-79.9494333,40.4527648,1,1,1
+oN552ZjtfJWV7CMtftGrfA,Dave & Andy's,"['Food', 'Ice Cream & Frozen Yogurt']",4.5,148,['Oakland'],-79.9572847,40.4409371,1,0,1
+yAC6PHPOOqlEvrzyVjItkw,Winner's Fast Food,"['American (Traditional)', 'Fast Food', 'Restaurants']",2.5,3,['Oakland'],-79.9571243,40.4415797,1,,0
+xQYa2C1-tKGx65GpDDNePQ,Starbucks,"['Food', 'Coffee & Tea']",4,12,['Oakland'],-79.957649,40.440978,2,1,1
+B-DLw09xS5mgAC0lvlGUxw,Bruegger's Bagels,"['Food', 'Sandwiches', 'Bagels', 'Breakfast & Brunch', 'Restaurants']",3.5,17,['Oakland'],-79.956956,40.441282,1,1,0
+ojlQtj_2W24-IZGqkBVsmg,KFC,"['Fast Food', 'Restaurants']",2,8,['Bloomfield'],-79.9460546,40.4547833,1,1,
+5Hd4vp5bKPq-W8zPwabYhw,Chief's Cafe,"['Food', 'Coffee & Tea']",4,4,['Oakland'],-79.9521783,40.4521371,1,,
+9Cx8HT4LLis_2OvcFZpEmw,Groceria Merante,"['Grocery', 'Food', 'Ethnic Food', 'Specialty Food', 'Sandwiches', 'Restaurants']",5,16,['Oakland'],-79.95538761,40.4365709,1,1,1
+Q2iZ7kT5SpiRir7iommz1g,Prince of India,"['Food', 'Food Delivery Services', 'Indian', 'Restaurants']",3,35,['Oakland'],-79.95859528,40.4416275,2,1,1
+n_vYHn44QfjFkTW7gS5LaQ,Arby's,"['Fast Food', 'Restaurants']",4,3,['Oakland'],-79.9606538,40.439136,1,1,0
+LCybuUjDVdYQAdfeM6dISw,McDonald's,"['Burgers', 'Fast Food', 'Restaurants']",2.5,4,['Oakland'],-79.9572821,40.4412286,1,1,0
+xdfs6XsmCoAwHD7vEOT5Ww,Einstein Bros Bagels,"['Food', 'Bagels', 'Coffee & Tea']",3,16,['Bloomfield'],-79.9460922,40.4545627,1,1,1
+XO_WxRfD9OAQ6l1FRuoUNg,Mantsch Blue Bonnet Bakery,"['Bakeries', 'Food']",3.5,3,['Sharpsburg'],-79.9346313,40.4966961,2,,0
+gQ-BN9WPkvsReJ-r-s_eOw,Murray Avenue Kosher Inc,"['Food', 'Specialty Food', 'Meat Shops']",3.5,8,['Squirrel Hill'],-79.9229595,40.4354812,2,1,1
+XNPqR50C5mtsSpeZ-Rshqg,Engel's Market,"['Food', 'Specialty Food', 'Convenience Stores', 'Fruits & Veggies']",4,4,['Squirrel Hill'],-79.923336,40.432968,1,,1
+liZsZYK2st1etzVYazpylw,Giant Eagle,"['Food', 'Grocery', 'Shopping', 'Drugstores']",2,26,['Squirrel Hill'],-79.92262898,40.43550914,2,1,1
+ar6UvDX5NQrKpd_4u9pdcg,Starbucks,"['Food', 'Coffee & Tea']",3.5,19,['Squirrel Hill'],-79.9191595,40.4377306,2,1,1
+yalcA5czeW7qly_6ksp1nw,Save-Mor Beer & Pop Warehouse Inc,"['Tobacco Shops', 'Food', 'Breweries', 'Shopping', 'Shaved Ice']",4.5,7,"['Squirrel Hill', 'Hazelwood']",-79.925444,40.416861,2,1,1
+khmDwXbcUxeU2ymjju_Jrw,Wheel Deliver,"['Food', 'Food Delivery Services', 'Restaurants', 'Italian']",2,13,['Squirrel Hill'],-79.9167743,40.4443879,3,1,0
+KT8KJ4zt-IPqpLzACdpEZg,Wendy's,"['Burgers', 'Fast Food', 'Restaurants']",1.5,5,['Squirrel Hill'],-79.925176,40.416731,1,1,0
+2i5ttyWIY-VPfp4dgWb5Cw,Young's Oriental Grocery Store,"['Food', 'Grocery']",3.5,12,['Squirrel Hill'],-79.9230247,40.4297244,1,1,1
+lT506ycfzn3Reti-DO05zA,Cogo's Co,"['Food', 'Grocery']",2.5,3,['Greenfield'],-79.9374714,40.4269069,1,1,0
+hMspWyS2RQ8yJ4GpvSN6pg,The Chocolate Moose,"['Food', 'Specialty Food', 'Candy Stores']",4,4,['Squirrel Hill'],-79.9216946,40.4380626,2,1,0
+7JYif-4RQOMWrUkoemuytA,Bruegger's Bagels,"['Food', 'Sandwiches', 'Bagels', 'Breakfast & Brunch', 'Restaurants']",3,9,['Squirrel Hill'],-79.9229113,40.4372489,1,1,0
+RptBvx0-dGfSpQYzqj6b8Q,The Coffee Tree Roasters,"['Food', 'Coffee & Tea']",4,27,['Squirrel Hill'],-79.9213874,40.4379282,1,1,1
+Y8ijuEjSTwnAJA3lIfAucg,Allegro Hearth Bakery,"['Bakeries', 'Food']",4.5,43,['Squirrel Hill'],-79.9230629,40.4338463,1,1,1
+TYyW_pl7hgfUEMwxVwc4OQ,Food Shoppe,"['Food', 'Grocery', 'Sandwiches', 'Delis', 'Restaurants']",4,6,['Squirrel Hill'],-79.9205075,40.4417263,1,1,1
+WRWh8BiaoICpsilqI7WrNQ,61C Cafe,"['Food', 'Coffee & Tea']",3.5,59,['Squirrel Hill'],-79.9227592,40.4361609,1,0,1
+rVwbsvynuVZH5LpgOx4oeA,Starbucks,"['Food', 'Coffee & Tea']",4,13,['Downtown'],-79.996777,40.440513,1,1,1
+vtcEXiQukuSzOMxyVxlh-Q,Grand Concourse Restaurant,"['Seafood', 'Breakfast & Brunch', 'Restaurants']",3.5,173,['South Side'],-80.0036951,40.4333831,3,1,1
+#NAME?,Bruegger's Bagels,"['Food', 'Sandwiches', 'Bagels', 'Breakfast & Brunch', 'Restaurants']",3,9,['Downtown'],-79.9963704,40.4426615,1,1,1
+tYi1AaABtF3jX1mUIMuYcQ,Subway,"['Fast Food', 'Sandwiches', 'Restaurants']",2.5,3,['The Hill District'],-79.992893,40.437255,,,
+_4DWNjU9ck_ynL4Me86CJw,Heritage Wine Cellars,"['Food', 'Arts & Entertainment', 'Wineries']",3.5,9,['South Side'],-80.0016673,40.4310108,2,1,0
+1u_8Lk1_0UsTmjW6b12bpw,Joe's Crab Shack,"['Seafood', 'American (Traditional)', 'Restaurants']",3.5,50,['South Side'],-80.00484,40.4336377,2,1,1
+l69zskvo5X2V9lxnINgXww,McDonald's,"['Burgers', 'Fast Food', 'Restaurants']",3,4,[],-79.8886233,40.4447141,1,1,
+FnaWgExFsjWeekotG-_66g,Wendy's,"['Burgers', 'Fast Food', 'Restaurants']",2,4,['Point Breeze'],-79.8930414,40.4461496,1,1,0
+44zt-uJPM4BGs46DaNO98Q,McDonald's,"['Burgers', 'Fast Food', 'Restaurants']",2.5,3,[],-79.98390198,40.36453091,,,
+WZXg-P4467py050tHRr5ng,McGinnis Sisters Special Food Stores,"['Food', 'Grocery']",3.5,4,[],-79.981995,40.370014,3,1,0
+EZdFJ0Uxqarqs5BX3pKgug,Dairy Queen,"['Food', 'Ice Cream & Frozen Yogurt']",2.5,10,['Overbrook'],-79.989937,40.378641,1,1,1
+46dYEuISLWIMSN55AijJBw,Giant Eagle,"['Food', 'Grocery', 'Shopping', 'Drugstores']",4,9,[],-79.98205662,40.36758819,2,1,1
+Alk2AVNg3wTrI4L1d-krZw,Lindos Restaurant,"['Food', 'Greek', 'Coffee & Tea', 'Restaurants']",3.5,13,['North Side'],-80.0183231,40.4515549,1,1,1
+fvhWfSPlx5J_3F-ScLpvXQ,Penn Brewery,"['German', 'Breweries', 'Venues & Event Spaces', 'Food', 'Event Planning & Services', 'Restaurants']",3.5,111,['Troy Hill'],-79.9921208,40.4572019,2,1,1
+PA0cwf2cgeC8P-YSKQmxIA,Brew Thru Beer Distributor,"['Food', 'Beer, Wine & Spirits']",4.5,4,[],-79.8509158,40.4139211,2,1,0
+pG76BRH7k9SVc9YW3jkANQ,B L Cream Co,"['Food', 'Specialty Food']",4.5,3,['North Side'],-80.0311105,40.4544448,,,
+LZghZl5RVTeR4p77UpXipg,McDonald's,"['Burgers', 'Fast Food', 'Restaurants']",1,4,['North Side'],-80.0188513,40.450857,1,1,
+_yyHTeCtVOQKjD6G6GO_lg,Eadie's Kitchen & Market,"['Bakeries', 'Food', 'Event Planning & Services', 'Caterers']",3.5,6,['Downtown'],-79.9959316,40.4396782,2,1,0
+NhA_Fg-0ywtg8ut2RjUo0w,Au Bon Pain Co Inc,"['Bakeries', 'Food', 'Cafes', 'Restaurants']",2.5,5,['Downtown'],-79.99554913,40.44090311,,1,
+0qOcbknxi72ZcF-z4VOtDQ,Shadyside Market & Deli,"['Food', 'Specialty Food', 'Grocery']",3.5,13,['Shadyside'],-79.9350205,40.4507156,2,1,1
+J2x_AMx591i6TK3xccEzqQ,The Enrico Biscotti Co,"['Bakeries', 'Food', 'Restaurants', 'Italian']",4,87,['Strip District'],-79.983392,40.4514468,2,1,1
+w7VSMULJ9GtRi3CBRxoJtg,Robert Wholey and Co Fish Market,"['Grocery', 'Food', 'Seafood', 'Seafood Markets', 'Specialty Food', 'Restaurants']",4,117,['Strip District'],-79.9858749,40.450111,2,1,1
+RhOTBt7ISr2rhXisSMLTSw,Spice Island Tea House,"['Food', 'Tea Rooms', 'Asian Fusion', 'Restaurants']",4,197,['Oakland'],-79.956028,40.439901,2,1,1
+Ak4s2gS-jx8iW33jY4u3jA,Té Cafe,"['Food', 'Coffee & Tea']",4.5,51,['Squirrel Hill'],-79.923207,40.434156,1,1,1
+P239JxvlJ_mTmMZk-2K9QA,Leaf & Bean,"['Food', 'Tobacco Shops', 'Coffee & Tea', 'Shopping']",4,24,['Strip District'],-79.9819651,40.4521061,2,1,1
+kKiluPSzCnCOkYKknWzNzQ,Five Guys Burgers and Fries,"['Burgers', 'Fast Food', 'Restaurants']",3.5,44,['Oakland'],-79.956657,40.442277,1,1,1
+UtWdmmCdMtm6iqcc7ccO_g,Cold Stone Creamery,"['Food', 'Ice Cream & Frozen Yogurt']",3,14,['Squirrel Hill'],-79.922806,40.437847,2,1,1
+RSr7nAayztT5mBLUBMpbpg,Trader Joe's,"['Food', 'Beer, Wine & Spirits', 'Grocery']",4.5,97,['East Liberty'],-79.919044,40.45932,2,1,1
+gNcvmWQ6b40mpfzSOdStEA,Entropy,"['Colleges & Universities', 'Food', 'Convenience Stores', 'Education']",1.5,3,['Squirrel Hill'],-79.94223118,40.44387706,4,,
+YeiH-kbGrwmIJlauSP_-dA,The Cheesecake Factory,"['Food', 'Desserts', 'American (Traditional)', 'Restaurants']",3.5,107,['South Side'],-79.9653483,40.4284111,2,1,1
+kc5gJPisT5L5z8lLa9FV9A,Legume,"['Soul Food', 'American (Traditional)', 'French', 'Restaurants']",4.5,226,['Oakland'],-79.9508477,40.4503566,3,1,1
+5japW20yvS1tomuvliRbcA,McCormick & Schmick's,"['Seafood', 'Restaurants']",3,62,['South Side'],-79.9667384,40.427981,2,1,1
+Xk8Nd2X5nf13DunyEg-MGQ,21st Street Coffee And Tea,"['Food', 'Coffee & Tea']",4,101,['Strip District'],-79.9844444,40.4516955,2,1,1
+Jh-8r-RwvkRs80HP_q6DYA,Bagel Factory,"['Food', 'Sandwiches', 'Bagels', 'Delis', 'Restaurants']",3,60,['Squirrel Hill'],-79.919905,40.438251,1,1,1
+0GdTpvzrpDWDPiHP3G6Fuw,The Cafe at the Frick,"['Food', 'Tea Rooms', 'Coffee & Tea']",4,31,['Point Breeze'],-79.902294,40.446593,2,1,1
+ouTDIL0eqSCSRxNk_Qt5_A,Gluuteny Bakery,"['Bakeries', 'Food', 'Gluten-Free', 'Vegan', 'Restaurants']",4,32,['Squirrel Hill'],-79.9226113,40.4351892,2,1,1
+U3AUN4Azkm76qsEaWqOCEw,The Capital Grille,"['American (Traditional)', 'Steakhouses', 'Seafood', 'Restaurants']",4,97,['Downtown'],-80.00003915,40.44071959,4,1,1
+v7e-GIGgEIFANhHsywlhrw,Square Cafe,"['Food', 'Vegetarian', 'Coffee & Tea', 'Breakfast & Brunch', 'Restaurants']",4,211,[],-79.8932692,40.43211376,2,1,1
+cs9iu_1abcCXOuelaO-Gfg,Hookah Bookah Cafe,"['Coffee & Tea', 'Food', 'Bars', 'Middle Eastern', 'Nightlife', 'Hookah Bars', 'Restaurants']",3,17,['South Side'],-79.9694706,40.4276187,2,1,1
+MEgNULnEYQ40EDxkTpfHxw,Make Your Mark,"['Food', 'Coffee & Tea', 'Sandwiches', 'Restaurants']",4,33,['Point Breeze'],-79.914467,40.4503719,1,1,1
+fY5s3NUnJTYJOHQeRPYNFQ,East End Brewing Company,"['Food', 'Beer, Wine & Spirits', 'Breweries']",4.5,60,['Larimer'],-79.9114833,40.4591026,2,1,1
+wlS-0nxpHQaFqv_iZ01fvw,Oh Yeah! Ice Cream & Coffee,"['Food', 'Ice Cream & Frozen Yogurt', 'Coffee & Tea']",3.5,103,['Shadyside'],-79.9254799,40.457865,2,1,1
+wziHV0Zs8AMFHdBrMaV2fw,Wine & Spirits Premium Collection,"['Food', 'Beer, Wine & Spirits']",4,27,['Shadyside'],-79.9294051,40.4586225,2,1,1
+puwWm1NTtjNiuHR1cQo9Tg,Priory Fine Pastries,"['Bakeries', 'Food']",4,19,['North Side'],-79.9997773,40.4538727,1,1,1
+_ji6oh2RwfOOt0jMznT5wg,Crepes Parisiennes,"['Food', 'Desserts', 'Creperies', 'Restaurants']",4,57,['Oakland'],-79.948641,40.4460679,1,0,1
+QnI-qHGQGgx61zcPyImhsQ,Tea Pittsburgh Margarets Fine Imports,"['Food', 'Coffee & Tea']",5,18,['Squirrel Hill'],-79.9201969,40.4378605,2,1,1
+p6I9XmfpvCyDbkvtvQqhsw,Rite Aid,"['Food', 'Convenience Stores', 'Shopping', 'Drugstores']",3.5,9,['Squirrel Hill'],-79.9231507,40.4377854,1,1,1
+H7XCWLhCbRMDtNs6GfEZXQ,Edible Arrangements,"['Shopping', 'Florists', 'Food', 'Chocolatiers & Shops', 'Gift Shops', 'Specialty Food', 'Flowers & Gifts']",3.5,3,['Downtown'],-79.996111,40.440556,2,1,1
+9TOZic931NktWjVGftktJQ,Crazy Mocha Coffee,"['Food', 'Coffee & Tea']",4,29,['Shadyside'],-79.9302162,40.4565015,2,1,1
+McHO_tvPofRkZVFpaZaWRA,Crazy Mocha,"['Food', 'Coffee & Tea']",3.5,21,['Bloomfield'],-79.9508171,40.4629248,1,1,1
+AwaxCI7NMG3_nqCLqC4qWw,The Pittsburgh Popcorn Company,"['Food', 'Specialty Food', 'Candy Stores', 'Desserts']",4.5,73,['Strip District'],-79.9827624,40.4515233,1,1,1
+VKtZk23K28Rp_9ku70zCrQ,Sree's Indian Truck,"['Indian', 'Food Stands', 'Restaurants']",4,4,['Squirrel Hill'],-79.94161963,40.44170511,1,0,0
+I9IDCNPrOvJYavtsH936cA,Fernando's,"['Fast Food', 'Sandwiches', 'Restaurants']",3.5,6,['Downtown'],-79.9953633,40.44371239,1,1,0
+ttCWIiHpoiuZX96D2KbNaQ,Steel City Diner,"['Fast Food', 'Diners', 'Restaurants']",3,4,['Downtown'],-79.9958916,40.4437364,,,0
+4e1FfJ1QxKa3L8TJHOtg7g,The Big Idea Infoshop,"['Food', 'Books, Mags, Music & Video', 'Coffee & Tea', 'Shopping', 'Bookstores']",4.5,8,['Bloomfield'],-79.9467527,40.4601392,1,1,1
+qg14DV1nQgYY_b_Pm3a6lw,Starbucks,"['Food', 'Coffee & Tea']",3.5,18,['Oakland'],-79.94851392,40.44461631,2,1,1
+OGRdRr9rjsXGChCsK7vfXw,Subway,"['Fast Food', 'Sandwiches', 'Restaurants']",3,13,['Oakland'],-79.9487066,40.4446704,1,1,0
+AuhN2byA2Cyn-uzWD-pJxw,Chipotle Mexican Grill,"['Fast Food', 'Mexican', 'Restaurants']",4,31,['Oakland'],-79.9579228,40.4410144,1,1,1
+VkaQc_XSCyy1TQsmRXVZhw,Rita's Italian Ice,"['Food', 'Ice Cream & Frozen Yogurt', 'Shaved Ice', 'Desserts']",4.5,29,['Squirrel Hill'],-79.919787,40.437813,1,1,1
+QF8aAgmMvwQsBKTUeq9_mg,Bloomfield ShurSave,"['Food', 'Grocery']",3.5,18,['Bloomfield'],-79.9526423,40.4633496,1,1,1
+9iPsnH3gJdyledlHYahLeg,Rite Aid,"['Food', 'Convenience Stores', 'Shopping', 'Drugstores']",3,4,['Downtown'],-79.997909,40.441985,2,1,0
+AD0FE_5dM7pWy5YdbMZaGQ,Cioppino,"['Seafood', 'Steakhouses', 'Restaurants']",4,85,['Strip District'],-79.9826184,40.4543386,3,1,1
+OpFSTvYREcZZ1ScB250Lbg,Pizza Pronto & Gyro House - Oakland,"['Food', 'Food Delivery Services', 'Restaurants', 'Sandwiches', 'Italian']",3.5,11,['Oakland'],-79.95183,40.454132,1,1,0
+lGJTErTf8Y72U4OLHhW65A,The Milk Shake Factory,"['Food', 'Desserts', 'Ice Cream & Frozen Yogurt']",4,106,['South Side'],-79.98172,40.429116,2,1,1
+wIsoQXDI4X6elYxTvkD_Rw,Big Dog Coffee,"['Food', 'Desserts', 'Coffee & Tea']",4.5,123,['South Side'],-79.96665,40.426003,1,1,1
+XtQgLRofbvrivJyinGZtkQ,Chipotle Mexican Grill,"['Fast Food', 'Mexican', 'Restaurants']",4,24,['Bloomfield'],-79.9473993,40.4541927,1,1,1
+LMD-f6FMz8lF8QeSlie5kQ,S&D Polish Deli,"['Food', 'Polish', 'Specialty Food', 'Ethnic Food', 'Restaurants']",4.5,63,['Strip District'],-79.9820206,40.4523578,1,1,1
+dWg_Wkun000du6jiI3TPUw,Penzeys Spices,"['Food', 'Specialty Food']",4.5,39,['Strip District'],-79.9853489,40.450319,2,1,1
+XY3aIm-0PZMXXkVKECD7uw,Penn Ave Fish Company,"['Food', 'Seafood', 'Sushi Bars', 'Seafood Markets', 'Specialty Food', 'Restaurants']",4.5,137,['Strip District'],-79.9818084,40.452314,2,1,1
+3wvt02K8Q4tZx0OImekCTg,The Terrace Room,"['Food', 'Restaurants']",3.5,30,['Downtown'],-79.996777,40.440513,4,1,1
+EpPfFCLETEnzAw324Y666A,Parma Sausage Products,"['Food', 'Specialty Food', 'Meat Shops']",5,27,['Strip District'],-79.9850342,40.4502923,2,1,1
+G7Ork6dlTZ6xcmPF3gxG4w,Commonplace Voluto,"['Food', 'Desserts', 'Coffee & Tea']",4.5,60,['Garfield'],-79.93342,40.464778,1,1,1
+2UUkXa45Vgk_TfCP6kmfSw,OTB Bicycle Café,"['Food', 'Beer, Wine & Spirits', 'American (New)', 'Restaurants']",3.5,105,['South Side'],-79.969064,40.427409,2,1,1
+AvVMhXghvAE2_JGWXoC7IA,Simpatico Espresso,"['Food', 'Coffee & Tea', 'Juice Bars & Smoothies']",5,31,['Downtown'],-79.996845,40.441819,1,1,1
+FVGtiujFXixkw71HBbBB_A,Wine & Spirits Store,"['Food', 'Beer, Wine & Spirits']",2.5,5,['Squirrel Hill'],-79.92298,40.4362726,2,1,1
+e6wtJ95VHGk5kQWtXholMw,Bubble Pi,"['Bakeries', 'Food']",3.5,21,['Squirrel Hill'],-79.9232325,40.4318095,1,1,1
+UawG_p7CC3p7HhE7pzNIyQ,Sweet Berry,"['Food', 'Ice Cream & Frozen Yogurt']",2.5,7,['Oakland'],-79.9586327,40.4409284,1,1,1
+Lv01PSVexq5YKJwfgg-JGA,Crazy Mocha,"['Food', 'Coffee & Tea']",3.5,29,['Downtown'],-79.9989331,40.4428412,1,1,1
+9bqGhpj6NYVrdojYUnHMgA,Crazy Mocha,"['Food', 'Coffee & Tea']",4,5,['Downtown'],-79.994009,40.444318,1,1,0
+pKwsonGrAZPR7xsB5XZjKA,Sree's Foods,['Food'],3,5,['Squirrel Hill'],-79.9228556,40.4335713,1,0,1
+EfmGcKIuG05OlY_mcANMRA,Starbucks,"['Food', 'Coffee & Tea']",3.5,16,['Downtown'],-80.0022505,40.4426547,2,1,1
+JObIv0n8MW2A84NE0__Syg,Crazy Mocha,"['Food', 'Coffee & Tea']",3.5,20,['Squirrel Hill'],-79.9231097,40.4335078,1,1,1
+ionFxm0fkwX_J3I5By6Efg,Co-Go's,"['Food', 'Convenience Stores']",2,4,['South Side'],-79.970737,40.428389,1,1,0
+d7M30BsQj_oT2howDyo0ew,Subway,"['Fast Food', 'Sandwiches', 'Restaurants']",4,8,['Downtown'],-79.9970421,40.4440334,1,1,
+doQQQzQis8Me3jGeAhfd5w,Subway,"['Fast Food', 'Sandwiches', 'Restaurants']",4,6,['South Side'],-79.9657795,40.4264582,1,1,0
+1wCyM-brDWQNxrJajO7QXw,Popeyes,"['Fast Food', 'Southern', 'Chicken Wings', 'Restaurants']",3,7,['South Side'],-79.9773691,40.4303589,1,1,
+W3UMlRDOn9Tzd3kfYlHX3g,"Peace, Love and Little Donuts","['Food', 'Donuts', 'Coffee & Tea']",3,93,['Strip District'],-79.9841639,40.4521127,2,1,1
+9q0T11qr73CgUlLM1amWMA,Bruegger's Bagels,"['Food', 'Breakfast & Brunch', 'Bagels', 'Sandwiches', 'Restaurants']",2.5,4,['Downtown'],-79.9984294,40.4383037,1,1,0
+V7r0F2kr1WlyNOBy-C_HMA,Espresso A Mano,"['Food', 'Coffee & Tea']",4.5,162,['Lawrenceville'],-79.9650015,40.4657718,1,1,1
+BL3JjW4GiljNbGn90Bk_Fg,Crazy Mocha,"['Food', 'Coffee & Tea']",2.5,9,['South Side'],-79.9654309,40.4262276,1,1,1
+ltFzUGuaNqDqH1iOlNd64g,Starbucks,"['Food', 'Coffee & Tea']",3.5,10,['Greentree'],-80.045552,40.420073,2,1,1
+Q6b-V99kzl6hUYug7AuYKA,Starbucks,"['Food', 'Coffee & Tea']",3,9,['Banksville'],-80.0441514,40.3996745,2,1,1
+gUT2SESEp7nV6kDYipHZeA,Giant Eagle,"['Food', 'Sandwiches', 'Grocery', 'Delis', 'Restaurants']",2.5,5,['West End'],-80.0355884,40.4224571,2,1,1
+TFvvI_MxoTg-rNHpvh3QeA,Schenley Park Cafe,"['Food', 'Coffee & Tea', 'Sandwiches', 'Restaurants']",3,9,['Squirrel Hill'],-79.9464765,40.4383304,1,1,1
+Fx9NGStq3-YpG1zcHzJftA,Starbucks,"['Food', 'Coffee & Tea']",3.5,11,['East Liberty'],-79.9243642,40.46391,1,1,1
+wTdSQoVHBA1HHOBLa_t8Pg,Dunkin' Donuts,"['Food', 'Donuts', 'Coffee & Tea']",2.5,10,['Squirrel Hill'],-79.9248833,40.41595,1,1,1
+b1vwNwPlEivVODtboYF1Bg,Starbucks,"['Food', 'Coffee & Tea']",3,5,[],-80.050369,40.357664,2,1,1
+6EXCN46MdJOa00KjuH8jaA,GetGo from Giant Eagle,"['Food', 'Automotive', 'Convenience Stores', 'Gas & Service Stations']",3,17,['Bloomfield'],-79.945506,40.45459,1,1,1
+qFY39MzKFQcT6dx56vqb7Q,Subway,"['Fast Food', 'Sandwiches', 'Restaurants']",2.5,3,['Banksville'],-80.0445746,40.399287,,1,
+BTxiE7WJgd_xQIhCZ_4Ibw,Getgo From Giant Eagle,"['Food', 'Automotive', 'Convenience Stores', 'Gas & Service Stations']",4.5,6,[],-79.88328998,40.48766661,1,1,1
+oZLeVF5nZe-6nBTgnoOl2w,Taco Bell,"['Fast Food', 'Mexican', 'Tex-Mex', 'Restaurants']",2,6,[],-80.060459,40.391243,1,1,
+5tx3tiX_k-0BklqBHL4ebQ,Beer Nutz of Ohara,"['Food', 'Beer, Wine & Spirits']",3.5,8,[],-79.8738589,40.4897698,2,1,1
+9tTYOHjgQsVON4UkDKvFcg,Wine & Spirits Stores,"['Food', 'Beer, Wine & Spirits']",4,3,['Dormont'],-80.0356122,40.3942239,2,1,0
+eZ8HKbgNXSCQhEDk4d4F2Q,Curbside Coffeehouse,"['Food', 'Coffee & Tea']",4.5,12,[],-79.85919322,40.49489765,1,1,1
+d7G_HhoYxcJbE3VBwVUwjg,Wine & Spirits Stores,"['Food', 'Beer, Wine & Spirits']",3.5,3,['Mt. Washington'],-80.0072834,40.4297475,2,1,0
+Sr9v3qm6MBUaePm6J5roWg,Rite Aid,"['Food', 'Convenience Stores', 'Shopping', 'Drugstores']",3.5,3,['Bloomfield'],-79.952764,40.464643,,1,
+PD8RfY1y8L4cUVaL2G0GIg,Starbucks,"['Food', 'Coffee & Tea']",3.5,10,['Squirrel Hill'],-79.923098,40.43049,1,1,1
+K37KV1hcxm5ZBpEwCakAcA,Bellevue Beer,"['Food', 'Beer, Wine & Spirits']",4.5,3,['Bellevue'],-80.06114,40.490822,2,1,1
+n7mCHwY1xZyNiEkPrajIBg,The Dancing Bean,"['Food', 'Coffee & Tea']",4.5,5,[],-80.002086,40.357482,1,0,0
+MZbI6n8rFDeFC0SwpBpl5g,Grand Brew,"['Food', 'Coffee & Tea']",3,19,['Mt. Washington'],-80.0074099,40.4308881,2,0,1
+qpbo_9bePjV9kjVZT8QeIg,Bombay Food Market,"['Food', 'Do-It-Yourself Food', 'Grocery']",3,13,['Oakland'],-79.9517924,40.4521293,1,1,1
+hj6L4rYi9w6iKZmSvFRJ4g,7-Eleven Stores,"['Food', 'Convenience Stores']",3.5,3,['Oakland'],-79.9557097,40.4425098,1,1,1
+lGI4ms4pmbFnDW9zc7vJkA,GetGo Fuel Station,"['Food', 'Automotive', 'Convenience Stores', 'Gas & Service Stations']",3,4,[],-79.9817737,40.3725859,1,1,1
+ajR1_uSNNMEmvYZNeC7eBQ,Wendy's,"['Burgers', 'Fast Food', 'Restaurants']",3,4,['Lawrenceville'],-79.962146,40.469244,1,1,
+gSGmCCnJLJWlo98LTNrhnw,Fudgie Wudgie Fudge Company,"['Food', 'Specialty Food', 'Candy Stores', 'Desserts']",3.5,9,['Strip District'],-79.9851733,40.4499777,3,1,0
+tY0K5GOyyluUgkbeiN3UEA,Hook Fish & Chicken,"['Seafood', 'Chicken Wings', 'Restaurants']",4,7,['North Side'],-80.0070379,40.4566445,1,0,0
+RefGF6n1EAjXVWPTX0G6ag,Schneider's Dairy Inc,"['Food', 'Farmers Market']",3.5,3,[],-79.990732,40.369033,1,0,
+2OhBwi83GEBlarsr4pEnWA,Kiev,"['Food', 'Grocery']",4,5,['Greenfield'],-79.9286966,40.4225105,2,1,0
+dRhY_HXQKfue3UGUCeNO9Q,Au Bon Pain,"['Bakeries', 'Food']",3.5,5,['Downtown'],-79.9982823,40.4380697,2,1,0
+DSw9meplxqhrB1jUFobdZg,Cold Stone Creamery,"['Food', 'Ice Cream & Frozen Yogurt']",3,7,[],-79.88542173,40.48838271,2,1,1
+yMAJeQulLvOov-5gg2nM9A,Razzy Fresh,"['Food', 'Ice Cream & Frozen Yogurt']",4,59,['Squirrel Hill'],-79.922834,40.43749,1,1,1
+LYWsIy_g_pLA32Iaze-eeg,Au Bon Pain,"['Bakeries', 'Food', 'Cafes', 'Restaurants']",3.5,11,['Downtown'],-80.0007482,40.4423373,2,1,0
+1-gH8mTUpl_nQhTQmOgS4Q,Get Go Fuel Station,"['Food', 'Automotive', 'Convenience Stores', 'Gas & Service Stations']",3,4,[],-80.0588143,40.3905416,2,1,1
+bMygiwZWA_UzCUCw6C11Iw,Five Guys Burgers and Fries,"['Burgers', 'Fast Food', 'American (New)', 'Restaurants']",4,7,[],-79.8854112,40.4881157,1,1,1
+alBrkZlhwTDbQtZxkxwYKA,Bombay Mart,"['Food', 'Grocery']",3.5,3,['Oakland'],-79.9553059,40.438918,1,1,0
+wluhsOjt03CgORropJKQoA,Subway,"['Fast Food', 'Sandwiches', 'Restaurants']",2.5,5,['Downtown'],-80.00141,40.439597,1,,
+7rTMlsgK44cq9gcotPksyA,Rita's Italian Ice,"['Food', 'Ice Cream & Frozen Yogurt', 'Shaved Ice', 'Desserts']",4,8,[],-80.0148009,40.3831218,1,1,1
+aiDMh26ZEatoEt8JZb4pfg,Starbucks,"['Food', 'Coffee & Tea']",3,7,['Bloomfield'],-79.9396789,40.4560895,1,1,1
+i0fbnuOIYMbC086pGAjC6A,Crazy Mocha Coffee Co,"['Food', 'Coffee & Tea']",3.5,11,['Lawrenceville'],-79.9616334,40.4692059,1,1,1
+Tosy5MgTLWW9FP_HCaiKPw,Wine & Spirits Stores,"['Food', 'Beer, Wine & Spirits']",2.5,4,['Oakland'],-79.956917,40.440801,2,1,0
+l3HyghOg5s_nTQtmXI0i-w,Wing Fat Hong Oriental Food Market,"['Food', 'Ethnic Food', 'Grocery', 'Specialty Food']",3,6,['Strip District'],-79.981791,40.452898,2,1,1
+h5cvE8TClzDrrlg88gD97Q,McCormick & Schmick's,"['Seafood', 'Restaurants']",3.5,44,['Downtown'],-79.9996681,40.4407839,3,1,1
+voThoicr5Zdq7SHFVwFveg,Mancini's Bread Company,"['Bakeries', 'Food']",4,16,['Strip District'],-79.985763,40.45018,1,1,1
+aHQfnf5HjsAYgSa-I74SmQ,Rite Aid,"['Food', 'Convenience Stores', 'Shopping', 'Drugstores']",3,3,['Friendship'],-79.9343406,40.4584178,2,1,1
+s8IAYfiw3fEasQc9aW-Ydw,Crazy Mocha Coffee Co,"['Food', 'Coffee & Tea']",4,7,['Oakland'],-79.9567511,40.4414046,1,1,0
+w6bhabpSWS5qjFb1AT72vg,Giant Eagle,"['Food', 'Grocery']",1.5,4,['Brighton Heights'],-80.043466,40.489263,2,1,1
+Za0bV7GjMDbcc4nZY6K3HQ,Bruegger's Bagels,"['Food', 'Sandwiches', 'Bagels', 'Breakfast & Brunch', 'Restaurants']",3,8,['Downtown'],-80.0042484,40.438151,1,1,1
+O7EG2bsUyIjiY43sFnRjCg,West Liberty Beer & Tobacco Outlet,"['Food', 'Beer, Wine & Spirits']",3,3,['Brookline'],-80.012733,40.4105599,2,1,0
+yC4FDptvMZ_xsLn6jO0pvw,Crazy Mocha Coffee Co,"['Food', 'Coffee & Tea']",4.5,3,['Downtown'],-80.0053813,40.4425755,1,1,0
+fRwzWb9l7UlqELcaujzZfg,7-Eleven,"['Food', 'Convenience Stores']",3,3,['Downtown'],-80.0008258,40.440194,1,1,
+G325ssFBWP4vwyifUAAF_A,Walmart,"['Food', 'Discount Store', 'Grocery', 'Shopping', 'Drugstores']",2,7,[],-79.8888753,40.488181,1,1,1
+gXUTqgRQ_ZzkG7qEpR6PBw,Market On Forbes Iga,"['Food', 'Grocery']",3,5,['Oakland'],-79.958095,40.4408964,2,1,1
+evHsFv7BbO-FrAtb7aN8JA,Pittsburgh Fish & Chicken,"['Seafood', 'Fish & Chips', 'Chicken Wings', 'Restaurants']",4,4,['Brighton Heights'],-80.0359804,40.4843068,2,0,0
+0WZ4-uFX5olbCYGSOO6C6Q,Dunkin' Donuts,"['Food', 'Donuts', 'Coffee & Tea']",2.5,10,['Dormont'],-80.0356606,40.394049,1,1,0
+7f73ptePsHAr4onNi4Zjug,Manpasand Spice Corner,"['Food', 'Ethnic Food', 'Specialty Food']",4.5,3,[],-80.070806,40.3906976,1,1,0
+lgnnZL0Cp6_q1Xx_4a0gpA,McDonald's,"['Burgers', 'Fast Food', 'Restaurants']",2,5,['Downtown'],-79.9985455,40.4402358,1,1,
+Fq6jYkjxDuOzy3I_eLswlg,Pittsburgh Popcorn,"['Food', 'Specialty Food']",4,15,['Downtown'],-79.9978377,40.4427094,2,1,1
+CJZGDTGoqvWrENvjr46emQ,Getgo From Giant Eagle,"['Food', 'Convenience Stores']",3.5,6,['South Side'],-79.980534,40.4277137,1,1,1
+iovp_cgGX8IT1-ZBUJ8z-g,Colangelo's Bakery,"['Bakeries', 'Food']",4.5,19,['Strip District'],-79.982709,40.4516262,1,1,1
+i4O6QQe_gEr4aDSY5f4imA,Showcase BBQ,"['Soul Food', 'American (Traditional)', 'Barbeque', 'Restaurants']",4.5,27,['Homewood'],-79.9060249,40.4580052,1,0,1
+TDNiPnxtXA4i5W2kj5zeTg,Buon Giorno Cafe,"['Food', 'Coffee & Tea', 'Restaurants', 'Italian']",4,4,['Downtown'],-80.0006523,40.4369172,2,1,0
+3EMEYlCxPiygL4Tu_z9beQ,Shoppe PA Wine & Spirits,"['Food', 'Beer, Wine & Spirits']",5,4,[],-79.88929479,40.48808946,2,1,0
+XK4HOwFTo6EE-YK7lbPjJg,Dunkin' Donuts,"['Food', 'Donuts', 'Coffee & Tea']",3.5,8,['Downtown'],-80.0029682,40.4407627,,1,
+_YyIG79QgsrQL1nWgBwIlw,Big Daddy's Donuts,"['Food', 'Donuts']",4,14,[],-80.0659218,40.4338382,1,0,1
+kT_nzjaWqRyda4XxEFsCpA,Black & Gold Beer Warehouse,"['Food', 'Beer, Wine & Spirits']",5,3,['South Side'],-79.9883497,40.427094,2,1,0
+B1RSo17_ObaqySpqsOzIUw,Subway,"['Fast Food', 'Sandwiches', 'Restaurants']",3,5,['Oakland'],-79.951601,40.452265,,,
+dtIfIC_I-c_Oll0jw_1Acw,Dunkin' Donuts,"['Food', 'Donuts', 'Coffee & Tea']",2.5,18,['Squirrel Hill'],-79.91957614,40.43816323,1,1,
+58RJp9m7hMt132ZP8fvm3g,Cogo's,"['Food', 'Grocery']",3.5,3,['Carrick'],-79.977468,40.383403,1,1,0
+hf2InPhILKcSO7xrsdEPnw,Party Cake Shop,"['Bakeries', 'Food']",4.5,6,[],-80.0493986,40.3887382,,,
+2bFrNEhlNjFA7aqJyYBXmw,Mitchell's Fish Market,"['Seafood', 'Restaurants']",3.5,29,[],-80.05004,40.35592,3,1,1
+7sc5j9G5A79MTXrRC6sOiQ,Seoul Mart,"['Food', 'Grocery']",2.5,11,['Shadyside'],-79.9471332,40.4471989,2,1,1
+RtKC65-4gqzEkRfK2D5pRA,Moonlite Express,"['Food', 'Ethnic Food', 'Restaurants', 'Food Stands', 'Specialty Food']",3.5,6,['Oakland'],-79.9556424,40.4379259,1,0,
+7yzFARDjgSSF7pe7IDnd_A,Asia Tea House,"['Food', 'Tea Rooms', 'Bubble Tea']",3,19,['Oakland'],-79.9501742,40.4440468,1,1,1
+15I-8lBqswpncTCGWJNDLQ,Starbucks,"['Food', 'Coffee & Tea']",4,8,['Shadyside'],-79.9350398,40.4510288,1,1,1
+O3PnM1fH8vqDpk-kzYqh5A,Cannon Coffee,"['Food', 'Coffee & Tea', 'Sandwiches', 'Restaurants']",4.5,32,['Brookline'],-80.0201357,40.3934598,1,1,1
+V8WFMV3iMvUvJGWBzexe_A,Tazza D'Oro,"['Food', 'Coffee & Tea']",4.5,15,['Squirrel Hill'],-79.94474139,40.44351575,1,1,0
+mMbUTTTK2ke8aSAS1eWMRQ,Scoops On The Boulevard,"['Food', 'Ice Cream & Frozen Yogurt']",4.5,8,['Brookline'],-80.0209249,40.3945573,1,1,1
+X4XG6aBH3WsIWIiA0BtHnA,Chick-Fil-A,"['Fast Food', 'American (Traditional)', 'Restaurants']",2,3,['Oakland'],-79.9531074,40.444245,1,1,0
+IsRmA4DqEE_xjw8y6KuObA,Moonlight Truck Food,"['Food', 'Food Stands', 'Food Trucks', 'Restaurants']",3.5,6,['Squirrel Hill'],-79.93857265,40.44219503,1,0,
+_f8bh9Mj0FKThJReDFENjA,GetGo,"['Food', 'Automotive', 'Convenience Stores', 'Gas & Service Stations']",2.5,6,['Lawrenceville'],-79.9623472,40.4685427,1,1,1
+2e0IF83DL8rdZfTGLmmH8A,Sweetlix,"['Food', 'Ice Cream & Frozen Yogurt']",3,9,['Downtown'],-79.998105,40.4426569,1,1,1
+9S1I9r0JXTaaQ7yb30rP2g,Conflict Kitchen,"['Food', 'Ethnic Food', 'Specialty Food']",4.5,74,['Oakland'],-79.9535582,40.4411427,1,1,1
+kOY6CQ4VijKg8PnCUsTXgg,Arsenal Cider House & Wine Cellar,"['Food', 'Beer, Wine & Spirits']",5,79,['Lawrenceville'],-79.9610655,40.4649715,2,1,1
+NjWAVjMxUwOqnpOOQL71QA,La Gourmandine Bakery & Pastry Shop,"['Bakeries', 'Food', 'French', 'Restaurants']",4.5,191,['Lawrenceville'],-79.958894,40.47313,1,1,1
+8Zoej25Y9-yEyuiL7-Ax7A,The Commonplace Coffeehouse,"['Food', 'Coffee & Tea']",4.5,81,['Squirrel Hill'],-79.9219196,40.4380885,1,1,1
+W2RzHyMajnmhOubU7318wQ,7 Eleven,"['Food', 'Convenience Stores']",2.5,6,['Downtown'],-79.99447,40.440386,2,1,0
+V053Fm3xoCyxoh1lAgDKJg,Pastitsio,"['Food', 'Greek', 'Street Vendors', 'Mediterranean', 'Restaurants']",4,47,['Lawrenceville'],-79.9642428,40.4666119,2,1,1
+qXDOMgynPeqe8yFcxLZH-Q,The Coffee Tree Roasters,"['Food', 'Coffee & Tea']",3.5,19,['Larimer'],-79.9150946,40.4563601,2,1,1
+scqwZPzH8qYXWmedtZa_7w,Prantl's Bakery,"['Bakeries', 'Food', 'Desserts']",3.5,16,['Downtown'],-80.002186,40.440995,1,1,1
+m7lbAuf32td7q6w4YxImlw,Genoa Pizza & Bar,"['Food', 'Food Delivery Services', 'Italian', 'Pizza', 'Restaurants']",3.5,16,['Downtown'],-80.0038533,40.4388711,1,1,1
+0bDp9GJBQ4K4ZTzvewLoVA,Strip District Meats,"['Food', 'Specialty Food', 'Meat Shops']",4,11,['Strip District'],-79.9826658,40.4522723,2,1,1
+KDFTshmwxKn6nSi1L3FuUA,The Tap Room,"['Food', 'Beer, Wine & Spirits']",3,19,['Downtown'],-79.9962691,40.4404929,3,1,1
+jimnHLgr6mrWV2kK2PaRhg,Tutti Frutti,"['Food', 'Ice Cream & Frozen Yogurt']",4,20,['Squirrel Hill'],-79.91987966,40.43800838,1,1,1
+brcD3qzFVUNrfE-LXwEIOQ,Lili Coffee Shop,"['Food', 'Coffee & Tea']",4,30,['Polish Hill'],-79.9658647,40.4574894,1,1,1
+PhoGiguAp2mWjqX85hDavQ,Razzy Fresh Frozen Yogurt,"['Food', 'Ice Cream & Frozen Yogurt']",4,60,['Oakland'],-79.9489865,40.44569191,1,1,1
+7_ehud9OJdNm8jj13Isdxg,Pittsburgh Public Market,"['Food', 'Farmers Market']",4,42,['Strip District'],-79.9805948,40.4535609,2,1,1
+SsSL6gKSlpTeeZXZEjAKFA,The Pittsburgh Popcorn Company,"['Food', 'Specialty Food']",4,16,['Oakland'],-79.9580559,40.4420548,1,1,1
+aBXz47ZGq4tvdayDQryhyw,Franktuary Truck,"['Food', 'Food Trucks']",4,10,['Downtown'],-79.99936759,40.44129208,1,1,0
+yCyLqBX3aujcR0SeIuxSWw,Chipotle Mexican Grill,"['Fast Food', 'Mexican', 'Restaurants']",4,26,['Downtown'],-80.001929,40.4405329,1,1,1
+pXS-IJlwDMgH7Xn_PdNY3w,Pad Thai Express,"['Food', 'Thai', 'Food Trucks', 'Restaurants']",3,5,['Oakland'],-79.9548779,40.4444572,1,0,0
+RMrdI5noVh3-b7NM48PcVg,India on Wheels,"['Food', 'Indian', 'Food Trucks', 'Restaurants']",4,21,['Oakland'],-79.9548779,40.4444572,1,0,1
+YOMMA4fsL4_SaPaPyA7sFg,Penn Avenue Fish Company,"['Seafood', 'Sushi Bars', 'Restaurants']",4,67,['Downtown'],-80.0004821,40.439901,2,1,1
+K-bnsVa7FO-mTDTNRpoE9g,"720 Music, Clothing and Cafe","['Food', 'Books, Mags, Music & Video', 'Coffee & Tea', 'Shopping', 'Vinyl Records']",4.5,18,['Lawrenceville'],-79.959903,40.471775,1,1,1
+MoX-AGP4AksEQC8CIQA-dQ,Rita's Italian Ice,"['Food', 'Desserts', 'Shaved Ice', 'Ice Cream & Frozen Yogurt']",4,6,['North Side'],-80.0014349,40.4531377,1,1,1
+ewN984Rvux04uuQFrGu7mw,Waffallonia,"['Food', 'Desserts', 'Breakfast & Brunch', 'Ice Cream & Frozen Yogurt', 'Restaurants']",4.5,154,['Squirrel Hill'],-79.9227349,40.4377293,1,1,1
+9iwONFY-aRZA1mgmVgm2ZQ,Pittsburgh Winery,"['Food', 'Arts & Entertainment', 'Wineries']",4.5,28,['Strip District'],-79.975468,40.457335,2,1,1
+cUVoyuhqv3ArYwwG_YcY1w,Crazy Mocha Coffee,"['Food', 'Coffee & Tea']",3.5,7,['North Side'],-80.01432671,40.46700694,1,1,1
+l-s0rNwp_qccC2M4Phz9Yw,Mercurio's,"['Food', 'Gelato', 'Pizza', 'Restaurants']",4,151,['Shadyside'],-79.932997,40.451653,2,1,1
+fT6jJp8rLQQ2EZZTz4tjVQ,Dunkin' Donuts,"['Food', 'Donuts', 'Coffee & Tea']",3,10,['Downtown'],-79.9960088,40.4410931,1,1,0
+9sg-JXUxnCiZqs3GhRQAKQ,Lucy's,"['Food', 'Street Vendors']",4.5,13,['Strip District'],-79.9815516,40.4524945,1,0,1
+cjdzhHLcQr3Jyd7sILPgog,Antney's,"['Food', 'Ice Cream & Frozen Yogurt']",5,25,['West End'],-80.0524348,40.4274699,1,1,1
+7MdzVVJjRNTRY8Dta5ednA,Mancini's Bakery,"['Bakeries', 'Food']",4.5,7,['Downtown'],-80.0028819,40.44019,1,1,0
+neSMyt7x4x_ffrunGyidmg,Pitt's Dogg'n It,"['Food', 'Beer, Wine & Spirits']",3,15,['Shadyside'],-79.9290441,40.4573222,2,1,1
+HmU6GZ32TaGmJFpPC-Mp1g,21st Street Coffee And Tea,"['Food', 'Coffee & Tea']",4,28,['Downtown'],-80.0014832,40.4411695,2,1,1
+Tj7wKXHZK_QGIaeerJgUHQ,Market Outlet,"['Food', 'Grocery']",5,8,['Strip District'],-79.9858359,40.4497857,1,1,1
+Iwi3g8umXSw8LGb3xVrHdw,Palanzos Beer Distributor,"['Food', 'Beer, Wine & Spirits']",5,3,['Bloomfield'],-79.9502895,40.4622053,2,1,1
+#NAME?,Razzy Fresh,"['Food', 'Ice Cream & Frozen Yogurt']",4.5,14,['Oakland'],-79.9586239,40.4406105,1,1,1
+wnb0VquMa65hYUUPISGD1Q,Zeke's Coffee,"['Food', 'Coffee & Tea', 'Cafes', 'Restaurants']",4.5,17,['East Liberty'],-79.9243279,40.461101,1,1,1
+diVJtnXItoMymDfJkSAV1w,Carmi Family Restaurant,"['Soul Food', 'Restaurants']",4,65,['North Side'],-80.0171467,40.451765,2,1,1
+oYDhgm38aak5tEo6GPUykg,Coco Cafe,"['Food', 'Do-It-Yourself Food', 'Ice Cream & Frozen Yogurt']",4,4,[],-80.0289335,40.3588258,2,0,1
+mJmVtFKcmskMHNn77q5qpg,Go Pretzel,"['Fast Food', 'Restaurants']",3.5,14,['Downtown'],-79.998918,40.4426692,1,1,1
+EQOoRmLsilk_94QS3q0vgQ,Brighton Hot Dog Shoppe,"['Burgers', 'Fast Food', 'Hot Dogs', 'Restaurants']",4,10,['West End'],-80.057167,40.426873,1,1,1
+osixLFHD7OKEUy2HSbN-7Q,Delanie's Coffee,"['Food', 'Coffee & Tea']",4.5,47,['South Side'],-79.9807375,40.4287949,1,1,1
+aRTQo0EQnLWo5Qg2io4Gbg,Brew On Broadway,"['Food', 'Coffee & Tea']",4.5,11,['Beechview'],-80.0245294,40.4106665,1,1,1
+ArMxMsyhcuSuPOF10jf0Yg,Bryant Street Market,"['Food', 'Grocery']",4,4,['Highland Park'],-79.919459,40.47586,2,1,1
+9b0y3HVHPWFnobKyMFFoCg,Eden,"['Live/Raw Food', 'Vegan', 'Restaurants']",4.5,70,['Shadyside'],-79.9345744,40.4511665,2,1,1
+sVLQl_lAnn6BeGQjhaWGqQ,Grandview Bakery,"['Bakeries', 'Food']",4.5,22,['Mt. Washington'],-80.007102,40.429882,2,1,1
+iohzAkFe7wrcpRNagpAmbQ,Peace Love and Little Donuts,"['Food', 'Donuts']",3.5,24,['Oakland'],-79.958654,40.4407473,1,1,1
+a9-qixaIQftb4HNZz4ocIw,Donato's,"['Steakhouses', 'Seafood', 'Restaurants', 'Italian']",3.5,24,[],-79.88283756,40.48833508,3,1,1
+gNz-NjpaBThGn0sxjgD1GA,Trader Joe's,"['Food', 'Beer, Wine & Spirits', 'Grocery']",4,20,[],-80.050826,40.351982,2,1,1
+O3I-lmolfNny4FHu_GmThw,Happy Berry Frozen Yogurt,"['Food', 'Ice Cream & Frozen Yogurt']",3,15,['Shadyside'],-79.9327303,40.4516251,1,1,1
+Lub0RurarPqWapys3U0Plg,Starbucks,"['Food', 'Coffee & Tea']",4,5,['Downtown'],-79.994853,40.441355,2,1,1
+vsAxFICzxvaQv7Jjj52Jqw,BeanThru,"['Food', 'Bagels', 'Juice Bars & Smoothies', 'Coffee & Tea']",4.5,12,['Bellevue'],-80.054891,40.486479,1,1,1
+eUeg7tdRFvNfXjmeFReSEg,Dunkin' Donuts,"['Food', 'Donuts', 'Coffee & Tea']",3.5,6,['Oakland'],-79.9562988,40.4421635,1,1,1
+78JJr9A0MbbHuXE1XUr-bQ,BD's Mongolian Grill,"['Food', 'Do-It-Yourself Food', 'Asian Fusion', 'Mongolian', 'Restaurants']",3.5,68,['South Side'],-79.9657311,40.4282787,2,1,1
+GB1pF4hPu_tCpx2BknwgMQ,Java House,"['Food', 'Coffee & Tea', 'Sandwiches', 'Restaurants']",4.5,8,['Brighton Heights'],-80.041572,40.480713,1,1,1
+xl1mNGpaoLdiVWj_D6-L_A,Bar Marco,"['Bars', 'Food', 'Beer, Wine & Spirits', 'Tapas/Small Plates', 'Nightlife', 'Restaurants']",4,135,['Strip District'],-79.9815516,40.4524945,2,1,1
+Qyctsa0nArqn1eNoLATv5A,Orbis Caffe,"['Food', 'Coffee & Tea']",4,14,[],-80.0443322,40.3811007,2,1,1
+pFh5W8euJOsU0dBYPoEN-Q,Red Hot Pittsburgh,"['Fast Food', 'Restaurants']",5,3,['Downtown'],-79.9962772,40.4400604,,,
+OGb4l_xFzRzTxCdNCW6XqA,Copper Kettle Brewing Company,"['Food', 'Breweries']",4.5,10,['Greenfield'],-79.9404903,40.4262158,2,1,1
+IH6AR98ac6KzPyFdc8t8yA,Starbucks,"['Food', 'Coffee & Tea']",4.5,3,['Oakland'],-79.9609899,40.4424694,2,1,1
+3dI-wF9TFDwK_vQqqlUPJw,Wine & Spirits Store,"['Food', 'Beer, Wine & Spirits']",2.5,3,['Lawrenceville'],-79.960872,40.469408,2,1,1
+NYuWw7DtbAe_CdI9XkFu2A,K & T's Fish and Chicken,"['Soul Food', 'Fish & Chips', 'Moroccan', 'Restaurants']",3.5,7,['Oakland'],-79.9525023,40.4519297,1,1,1
+hcctvfq3fmVIscSeBURsjQ,GetGo Fuel Station,"['Food', 'Automotive', 'Convenience Stores', 'Gas & Service Stations']",2,3,[],-79.893918,40.433151,2,1,0
+dHxYQrVTkukMj4EjQZ7KUQ,Betsy's Ice Cream,"['Food', 'Ice Cream & Frozen Yogurt']",4,22,[],-80.044831,40.380726,1,1,1
+b7XXKWkkNd7iaW8eBUAKYQ,Deli On North Avenue,"['Food', 'Delis', 'Restaurants']",4.5,6,['North Side'],-80.0063506,40.4556652,1,1,0
+2Ny460lur1MzN-nsi0_Bpw,Dunkin' Donuts,"['Food', 'Donuts', 'Coffee & Tea']",3,3,[],-80.069384,40.4384507,1,1,0
+l_XX0Oij03f6R3j3uyaW1g,Walgreens,"['Shopping', 'Drugstores', 'Beauty & Spas', 'Food', 'Convenience Stores', 'Cosmetics & Beauty Supply']",2.5,5,['Shadyside'],-79.9265915,40.4592997,1,1,1
+y2eo_MWD3XfnxxvhXh7Esw,Wigle Whiskey,"['Food', 'Beer, Wine & Spirits']",4.5,58,['Strip District'],-79.981477,40.454384,2,1,1
+jbbaOY_Jh71a9i7JDmkY8g,Shop 'n Save,"['Food', 'Grocery']",3.5,4,['Carrick'],-79.99071,40.4051093,2,1,1
+5kVrSq6mXcu_jT3S72xt0A,Sumi's Cakery,"['Bakeries', 'Food']",4.5,23,['Squirrel Hill'],-79.9227536,40.4331786,1,1,1
+HCVht5j_wW17QxlKewYmxw,Chick-fil-A,"['Fast Food', 'Restaurants']",3.5,8,[],-80.051582,40.352041,1,1,0
+FlICTKTPNq-KVIZ6eM9zrg,Biddle's Escape,"['Food', 'Coffee & Tea']",4.5,55,[],-79.8921011,40.4381463,1,1,1
+#NAME?,R Wine Cellar Urban Winery,"['Food', 'Arts & Entertainment', 'Wineries']",4.5,8,['Strip District'],-79.9840934,40.4519412,2,1,1
+XOhxYCwkx7gfZv8bi68aUw,Buddy's Brews On Carson,"['Food', 'Beer, Wine & Spirits']",4.5,4,['South Side'],-79.97520626,40.42828809,2,1,1
+#NAME?,Caffè d'Amore Catering,"['Food', 'Coffee & Tea', 'Event Planning & Services', 'Caterers']",4.5,3,['Strip District'],-79.9805948,40.4535609,1,1,1
+3ZepumtXvVkoHsNOWqF4iA,Chipotle Mexican Grill,"['Fast Food', 'Mexican', 'Restaurants']",3.5,11,[],-80.0598612,40.3917014,2,1,
+6rFVdqC74mPnkDmlSUOADg,Yovi's,"['Hot Dogs', 'Fast Food', 'Sandwiches', 'Restaurants']",4,9,['Downtown'],-80.00280082,40.44130908,1,0,0
+NnyTtTWVDCRZhHXkdug-ZQ,Gus And Yiayia's,"['Food', 'Street Vendors']",4,4,['North Side'],-80.01201153,40.45202532,1,0,0
+xlYVxFtTh_YKfxkhkgW5Vg,Arcade Bakery & Cafe,"['Bakeries', 'Food', 'Cafes', 'Restaurants']",4.5,6,['Downtown'],-79.998357,40.4395219,2,1,
+b6H3J8zWmFhzHiqSIpymvA,Dream Cream Ice Cream,"['Food', 'Ice Cream & Frozen Yogurt']",4.5,45,['Downtown'],-80.0023512,40.4417967,1,1,1
+24t1XrFKY0ldSD1hOKnTew,Love Yogurt,"['Food', 'Ice Cream & Frozen Yogurt']",4.5,16,['South Side'],-79.975218,40.428181,1,1,1
+JsSBsu_ohNvNXQCh_fpnmw,Edgewood Beer & Tobacco,"['Tobacco Shops', 'Beer, Wine & Spirits', 'Shopping', 'Food']",5,3,[],-79.8873536,40.428021,2,1,0
+qKqld7dwt00qW938tRTSjA,Oh! Yogurt,"['Food', 'Ice Cream & Frozen Yogurt']",4,30,['Bloomfield'],-79.94942522,40.46187645,1,1,1
+KdyzsUzDlnvhioJ0e0OrcA,Taco Bell,"['Fast Food', 'Mexican', 'Restaurants']",3,6,['North Side'],-80.01872166,40.44981535,1,1,
+Dra-diHsNo-c-LzOpIwY8g,Marty's Market,"['Food', 'Breakfast & Brunch', 'Grocery', 'Butcher', 'Restaurants']",4,76,['Strip District'],-79.9822822,40.4534962,2,1,1
+biOzSL4HVrEaSyU5ZS-IrA,Station Break,"['Food', 'Coffee & Tea']",4.5,3,['South Side'],-80.00639498,40.43487036,,,
+S_GRbwagsaDCGeEm_sDu_w,Le Cupcake Shoppe,"['Food', 'Desserts', 'Bakeries']",4,5,['Brookline'],-80.018213,40.404942,2,1,0
+VbspQ858e9Qz7SwAJzc2mA,Grandpa Joes Candy Shop,"['Food', 'Specialty Food', 'Candy Stores']",4.5,9,['Strip District'],-79.982244,40.4520089,2,1,1
+Yj1EJ_HDLtw7wLcdpmaY9w,Luke Wholey's Wild Alaskan Grille,"['Seafood', 'Restaurants']",4,134,['Strip District'],-79.982617,40.4517056,2,1,1
+n1n3o-hv5JsBkvZRtJPZKA,City Cafe,"['Food', 'Breakfast & Brunch', 'Coffee & Tea', 'Vegetarian', 'Restaurants']",3,40,['Downtown'],-79.9961885,40.4436546,1,1,1
+FNzej_nQlemt2jcfU1dq0Q,Crazy Mocha,"['Food', 'Coffee & Tea']",4,6,['South Side'],-80.0016201,40.4309995,2,1,1
+35CKLsZKk1KkyOzUn_cUXg,Wine and Spirits,"['Food', 'Beer, Wine & Spirits']",3,4,['North Side'],-80.0009545,40.4535197,3,1,0
+Y1kN31_d8r4B_g32sdpFPg,Shop 'n Save,"['Food', 'Grocery']",4,6,[],-80.0280509,40.36850135,2,1,0
+J4Y6BSwxGxD7mznM45ykeA,The Bagel Factory,"['Food', 'Bagels', 'Coffee & Tea']",2.5,53,['Oakland'],-79.94881868,40.44453026,1,1,1
+GiI6H2Z76lxlr7hnqbhFtw,Sandpresso,"['Food', 'Coffee & Tea', 'Sandwiches', 'Restaurants']",3.5,5,['Strip District'],-79.9931714,40.4454292,,,
+dSCZasmhqONze5Oj1gyO6A,Yummy Yo & Boba Tea 88,"['Food', 'Ice Cream & Frozen Yogurt']",3.5,4,[],-80.029173,40.359115,1,,0
+Oeh9xjp5xYJFy0mgsPzUkw,Yogli Mogli,"['Food', 'Ice Cream & Frozen Yogurt']",4.5,14,[],-80.0442924,40.3803202,1,1,1
+evUT81j1hZTA8ZNNlclqxw,Ben & Jerry's,"['Food', 'Ice Cream & Frozen Yogurt']",3.5,6,['Downtown'],-79.996748,40.44414304,1,1,1
+CovCgffklC_E0b2QHZ-gWw,Chakh Le India,"['Food', 'Indian', 'Food Trucks', 'Restaurants']",3.5,7,['Oakland'],-79.95570532,40.44521025,1,0,0
+so0cUMK8I8d88F7uhBqaFA,Frederick's Soul Food,"['Soul Food', 'Restaurants']",2.5,4,['Downtown'],-79.997313,40.442413,1,1,0
+ZMLt9rTN-W8tZkgQrwnx0w,Pittsburgh Pierogi Truck,"['Food', 'Food Trucks']",3.5,10,['Downtown'],-79.9958864,40.4406248,1,1,
+Dst9oQQYrk5cj-DBbEpYxg,Oh My Grill,"['Food', 'Food Trucks']",4,9,['Strip District'],-79.98211057,40.45274129,1,1,
+FAKevEJKD1D1Nccy6vccgA,PGH Taco Truck,"['Food', 'Food Trucks']",4,33,['Strip District'],-79.98249681,40.45184324,1,1,1
+EBrwIYYtBdGQ5X3zuvM1qg,BRGR Truck,"['Food', 'Burgers', 'Food Trucks', 'Restaurants']",4,8,['Downtown'],-79.99816093,40.43809799,2,1,0
+rkZ4SwfRFliatpoMsb1-Xg,Park Pizza & Cream,"['Food', 'Ice Cream & Frozen Yogurt', 'Pizza', 'Restaurants']",4,14,['Regent Square'],-79.89742289,40.43952949,1,1,1
+XBoZ37qBlvgZyfpIO0yEzQ,Aldi,"['Food', 'Discount Store', 'Grocery', 'Shopping']",4.5,15,['South Side'],-79.967468,40.426888,1,1,1
+Jil8TD-tiLNaVqnnTukWlQ,Wild Purveyors,"['Food', 'Specialty Food']",4.5,3,['Lawrenceville'],-79.9521411,40.4822953,3,1,1
+MLwZB6mXpzfFyENYLAnG0A,Roxanne's Take-Out  & Catering,"['Soul Food', 'Seafood', 'Southern', 'Restaurants']",4,3,['Bloomfield'],-79.954575,40.464915,,,
+D31NTvzW9aPExUksVQQ7pA,DJ's Butcher Block,"['Food', 'Butcher']",5,22,['Bloomfield'],-79.949961,40.462483,1,1,1
+T67Sp60-oA2x15reB7EqiA,Sinful Sweets Chocolate Company,"['Food', 'Desserts', 'Candy Stores', 'Specialty Food']",4.5,37,['Downtown'],-79.998282,40.443994,2,1,1
+inngNun5R62Hq2J_5sJhDw,Craftwork Kitchen,"['Food Court', 'Restaurants']",4,9,['Downtown'],-79.994853,40.441355,,1,
+4PvhZdmpkPy8fjzWMSY6jw,Rose Tea Cafe,"['Food', 'Bubble Tea', 'Taiwanese', 'Chinese', 'Restaurants']",3,28,['Oakland'],-79.9489713,40.4448167,1,0,1
+klSGYQhO24piw0WQVIIMYw,Commonplace Coffee Co,"['Food', 'Coffee & Tea']",5,4,['Larimer'],-79.91164349,40.45924694,,1,0
+cvKFTItaDH8NCXJIYc0pgQ,Allegheny Coffee & Tea Exchange,"['Food', 'Coffee & Tea']",4.5,18,['Strip District'],-79.9838608,40.4513403,1,1,1
+ek4oL7RAsh55jjj5mqUcQw,Dobra Tea,"['Food', 'Tea Rooms', 'Coffee & Tea', 'Vegetarian', 'Restaurants']",4.5,40,['Squirrel Hill'],-79.9228082,40.4349648,1,1,1
+YyoXla4L4uIGSf05110XaA,Farm to Table Conference,"['Food', 'Specialty Food', 'Fruits & Veggies', 'Local Flavor']",3.5,6,['Strip District'],-79.99496,40.446578,2,1,1
+nZq_D4BLT2J8Uzku1xJQ7A,Edible Arrangements,"['Shopping', 'Florists', 'Food', 'Chocolatiers & Shops', 'Gift Shops', 'Specialty Food', 'Flowers & Gifts']",3,5,['East Liberty'],-79.91758503,40.45787363,3,1,0
+3u7WY-VUY9yN3eS65phIZA,The Steer and Wheel,"['Food', 'Food Trucks']",4.5,8,['Downtown'],-79.996111,40.440556,2,1,0
+aqslMehKRH-jsS9lUlmZeg,The Burgh Bites Cart,"['Food', 'Food Trucks']",5,7,['Shadyside'],-79.9270989,40.4534158,1,1,0
+eV5JI26emxsQvZ6lFt9VVw,Lucky Cup Frozen Yogurt,"['Food', 'Ice Cream & Frozen Yogurt']",3,4,['Dormont'],-80.0345368,40.3952286,2,1,1
+hxSNB2FA9jc2LHGWA2n4LA,ALDI,"['Food', 'Grocery']",3.5,17,['Friendship'],-79.9350855,40.4579904,1,0,1
+ZurbTJZ8nTlngOiqcn4-1g,Olive & Marlowe,"['Food', 'Specialty Food']",4.5,3,['East Liberty'],-79.9253608,40.4628469,,1,1
+WZay4I_3h-KHp4VpJfZvSQ,The Shady Dog,"['Food', 'Street Vendors']",4.5,4,['Shadyside'],-79.9332613,40.451096,1,0,0
+gwcfAXAUTj1Bq6YwnPKWlg,Vanilla Pastry Studio,"['Food', 'Desserts']",4,37,[],-79.8936278,40.4317238,2,1,1
+loYtjyqqqzjpgofA-gSY9g,Brioche Doree,"['Food', 'Bakeries', 'Coffee & Tea']",3.5,4,['Oakland'],-79.956529,40.4441972,1,1,0
+nZSlLTl1EtecotlNZ76P3A,Gryphon's Tea,"['Food', 'Tea Rooms', 'Coffee & Tea']",5,6,['Lawrenceville'],-79.9607755,40.4701461,1,1,0
+O-1vZsYfFEtLIxulecV9Fw,I Tea Cafe,"['Food', 'Coffee & Tea', 'Juice Bars & Smoothies']",3.5,24,['Shadyside'],-79.9341651,40.4522185,2,1,1
+nK8kRhoMDY_2HtKINuSfVQ,Lydiah's Coffee House,"['Coffee & Tea', 'Food', 'Ethnic Food', 'Specialty Food', 'African', 'Restaurants']",4.5,7,['Downtown'],-79.9981261,40.4371691,1,1,0
+dbsI3wSVdhOLGNjmM8sBfQ,Waffallonia,"['Food', 'Desserts', 'Specialty Food', 'Ethnic Food']",4,12,['Oakland'],-79.953552,40.443167,1,1,1
+O4Vsr3w0d7rvq-IyclNiMw,Las Palmas Carniceria,"['Food', 'Grocery']",4,6,['Beechview'],-80.025054,40.411168,1,1,1
+FUzHPhqGT_3H5r7ghTMmMw,Feast on Brilliant,"['Food', 'Specialty Food', 'Grocery']",5,7,['Aspinwall'],-79.901218,40.489741,2,1,1
+feo63jUDoc0Kg8UK5NCCMg,Popeye's Chicken,"['Fast Food', 'Chicken Wings', 'Restaurants']",1.5,5,['Oakland'],-79.9587044,40.4415866,1,1,0
+okvhzVSYwfN02cn3reYXHw,Roundabout Brewery,"['Food', 'Breweries']",4.5,36,['Lawrenceville'],-79.956985,40.4771669,2,1,1
+Lb2TBwZelvHqb5n-o4Zgww,Atlas Bottle Works,"['Food', 'Beer, Wine & Spirits']",4,5,['Lawrenceville'],-79.96115,40.470045,2,1,1
+zbBNM_2GaDgEw_C8Kyp2Eg,Many More Asian Market,"['Food', 'Grocery']",4.5,5,['Strip District'],-79.9726906,40.4600213,1,1,1
+tP8xotGVQoY3EX1hpW0GQw,Toss't,"['Food', 'Do-It-Yourself Food', 'Specialty Food']",2.5,4,['Downtown'],-80.0013393,40.4410836,,,
+vNL0T2hrlIO33Rbbbi4sLg,Everyday's A Sundae,"['Food', 'Ice Cream & Frozen Yogurt', 'Coffee & Tea', 'Sandwiches', 'Restaurants']",4,12,['Shadyside'],-79.92423268,40.46010505,1,1,1
+2CVv0URvnKNXA5EfeEb9Eg,Crazy Mocha Coffee,"['Food', 'Coffee & Tea', 'Cafes', 'Restaurants']",3,9,['Friendship'],-79.9352334,40.4579855,1,1,0
+gsS84lf4hAVEWdP__oFR7g,Bombay Gyro's and Lunch Box,"['Food', 'Ethnic Food', 'Restaurants', 'Mediterranean', 'Specialty Food']",4,7,['Downtown'],-79.9955278,40.4442059,1,1,0
+mtp4OoVuitVaj8daxAyxIA,Lomito Truck,"['Food', 'Food Trucks']",4.5,3,['East Liberty'],-79.92558783,40.46247448,2,1,0
+Eq-w1GBZLdEbrtNDwVncYA,Gaby Et Jules,"['Bakeries', 'Food']",4,92,['Squirrel Hill'],-79.921365,40.438345,2,1,1
+dFrVbVtYI5Se64hRPKTWOA,Happy Bellies,"['Food', 'Food Delivery Services']",4,5,['Bloomfield'],-79.9536322,40.4656956,2,1,
+Y5mY_dT7-_wauhQXLQgqtA,Schenley Plaza,"['Food', 'Arts & Entertainment', 'Street Vendors', 'Nightlife', 'Music Venues']",4.5,4,['Oakland'],-79.9521286,40.4435295,2,1,0
+fbqs1kYYcxowUWfowEkHYA,Juice Up 412,"['Food', 'Tapas Bars', 'Juice Bars & Smoothies', 'Vegan', 'Restaurants']",5,3,['East Liberty'],-79.9252567,40.4604323,,1,1
+h6G6P_z1RbzC-mcRcZRg7A,61B Cafe,"['Food', 'Bakeries', 'Coffee & Tea']",3.5,15,[],-79.89407349,40.43235397,1,0,0
+c7g24jVOFLwHvYikvdt1mQ,Le Petit Chocolat,"['Food', 'Specialty Food', 'Cupcakes', 'Chocolatiers & Shops']",5,10,['South Side'],-79.977958,40.428345,2,1,1
+1LrNuxTU2e0v3lEW9VLZEA,Beers of the Burgh at PNC Park,"['Food', 'Beer, Wine & Spirits']",3.5,3,['North Side'],-80.00722068,40.4475394,3,1,0
+QemPjyORlLB98ON0uCst5w,Hop Farm Brewing Co.,"['Food', 'Breweries']",4.5,15,['Lawrenceville'],-79.947964,40.4846999,1,1,0
+VmYWzpY2fCrIav5SbfCL1A,Constellation Coffee,"['Food', 'Coffee & Tea']",4.5,21,['Lawrenceville'],-79.95574388,40.46566478,1,1,0
+14JrDlEb7SMK_ZHrS80lFA,The Pub Chip Shop,"['Bakeries', 'Food', 'Fish & Chips', 'Restaurants']",4.5,78,['South Side'],-79.979395,40.428426,1,1,1
+Gt1CqxYwNmzOQg0TXhwjUA,Pgh Crepes,"['Food', 'Food Trucks']",4,4,['South Side'],-79.98,40.428,1,1,0
+Fbg2LpTLb--d95SSndDntA,Chateau Café & Cakery,"['Food', 'Bakeries', 'Coffee & Tea', 'Cafes', 'Restaurants']",4,15,['North Side'],-80.03240736,40.45447204,1,1,1
+JdAyXD2lsYtOGUc7DTsVEQ,Cafe Moulin,"['Food', 'Breakfast & Brunch', 'Coffee & Tea', 'French', 'Restaurants']",3.5,34,['Shadyside'],-79.93318538,40.45162224,2,1,1
+acvpqVAsH8steBaqjCCBaQ,Pittsburgh Pie Guy,"['Bakeries', 'Food']",5,5,['Downtown'],-79.9958864,40.4406248,2,,
+UXnIsrsRof-fx8RYTXjxHg,Maggie's Farm Rum,"['Food', 'Beer, Wine & Spirits', 'Bars', 'Cocktail Bars', 'Nightlife']",4.5,13,['Strip District'],-79.9701224,40.4617996,2,1,0
+Y5IphJz40qozno6INJsPzg,Eliza's Oven,"['Bakeries', 'Food']",5,6,['Strip District'],-79.980494,40.454311,1,1,0
+cJCg07biPE5yrNaNE-Fxyg,Istanbul Grille,"['Food', 'Ethnic Food', 'Turkish', 'Restaurants', 'Specialty Food']",4.5,16,['Downtown'],-79.994853,40.441355,1,0,0
+22dqMSdcSGrampqIniNbpA,Juice Bliss,"['Food', 'Juice Bars & Smoothies']",1,3,['Shadyside'],-79.928882,40.457666,4,1,0
+_z0oAuTO0Jk07sMdoPE8gg,Bobby Hendrix Restaurant & Lounge,"['Bars', 'Food', 'Beer, Wine & Spirits', 'Burgers', 'Nightlife', 'Lounges', 'Restaurants']",3.5,14,['South Side'],-79.976795,40.428796,2,1,1
+rtHMAC_eh46jldMEX21Zxg,Edgar Tacos Stand,"['Food', 'Street Vendors']",5,13,['Strip District'],-79.9839206,40.4523561,1,0,1
+OH48cGMt3vW1frpky7wF5A,Great Harvest Bread Co,"['Bakeries', 'Food', 'Cafes', 'Sandwiches', 'Restaurants']",5,4,['East Liberty'],-79.91826796,40.45917635,2,1,0
+X5p-CqU10u-gUtUImKhkSw,Butcher on Butler,"['Food', 'Specialty Food', 'Meat Shops', 'Butcher']",5,4,['Lawrenceville'],-79.9551885,40.4796049,2,1,1
+vPQPsC_NkQPKDs5ljbgB3A,The Pittsburgh Juice Co.,"['Food', 'Juice Bars & Smoothies']",4,15,['Lawrenceville'],-79.966438,40.462869,2,1,1
+PJmNg6ahKgd53gOLBvSZjg,Cup ka Joe,"['Food', 'Coffee & Tea', 'Juice Bars & Smoothies']",4,6,['South Side'],-79.96729122,40.42640372,1,1,1
+PhzATk8aYydq9E0Aj4-fwA,Chipotle Mexican Grill,"['Fast Food', 'Mexican', 'Restaurants']",3,19,['Shadyside'],-79.9255199,40.4592086,1,1,1
+u-PbFb01OqXOuYN86x1QSA,Bella Christie's & Lil Z's Sweet Boutique,"['Food', 'Desserts', 'Bakeries', 'Donuts']",4.5,16,['Lawrenceville'],-79.966333,40.464398,1,1,1
+e7HwvsagBGIXXygZDuNMNQ,Independent Brewing Company,"['Food', 'Beer, Wine & Spirits']",3.5,38,['Squirrel Hill'],-79.91952912,40.43768277,2,1,1
+IfLn-5ZVXUCDmp6Dl_XA7g,52nd Street Market,"['Food', 'Grocery']",4.5,3,['Lawrenceville'],-79.9519353,40.4787959,2,1,0
+kCn8O1IFisAEHrXbQAtirQ,Yogurt City,"['Food', 'Ice Cream & Frozen Yogurt']",4,6,[],-79.8907061,40.4271728,1,1,0
+Waw-udotzXTvNXCyycxPAA,Southside BBQ Company Truck,"['Food', 'Food Trucks']",3.5,10,['South Side'],-79.9817294,40.4316181,1,1,0
+-5qo9bTeQrfStoKiZYDYYA,Carnegie Delicatessen and Catering,"['Delis', 'Comfort Food', 'Restaurants']",3.5,3,['Downtown'],-80.000946,40.439497,,,
+PP1iNmpyRIEVpWv98IVvFw,Eddie Merlot's,"['Seafood', 'Steakhouses', 'Restaurants']",4,32,['Downtown'],-80.004628,40.4408249,3,1,0
+_BUOZDGlYf-zBALjtnXyBA,Allegheny City Market,"['Food', 'Grocery']",5,4,['North Side'],-80.009625,40.457244,2,1,1
+vXEFKN1Gc1BfW3d6ZhKnyw,It's Dogg'n It,"['Food', 'Beer, Wine & Spirits']",4.5,3,['Squirrel Hill'],-79.9228456,40.4349741,3,1,0
+JyldCiKvK1m72VS6tuC_Qg,Hitchhiker Brewing Company,"['Food', 'Breweries']",3.5,14,[],-80.0407084,40.3777216,2,1,1
+3LM_yK3iF2VjkS6mFRF58w,Bama's Southern Kitchen,"['Soul Food', 'Barbeque', 'Restaurants']",4.5,16,['Brookline'],-80.0225039,40.3951787,2,1,1
+5dbzunCt920nwML5pYegsQ,Grist House Brewing,"['Food', 'Breweries']",4.5,15,['Millvale'],-79.971985,40.47886,2,1,1
+tdw9hdKyxZZcA4WBy_y83Q,Wigle Whiskey Barrelhouse and Whiskey Garden,"['Food', 'Breweries']",4.5,10,['North Side'],-79.993426,40.459293,2,1,1
+IwS-csQKkWt3lYr25Mx2uA,Scoops in Bloomfield,"['Food', 'Ice Cream & Frozen Yogurt']",4.5,13,['Bloomfield'],-79.94684553,40.46040026,1,1,0
+sdZPSNFm5dosRMICiYkjyg,Bloomfield Saturday Market,"['Food', 'Farmers Market']",4.5,3,['Bloomfield'],-79.9442895,40.4590954,2,,0
+W4lkEQMYz3hdR1SvIIFzyQ,Five Guys Burgers and Fries,"['Burgers', 'Fast Food', 'Restaurants']",4.5,5,['Downtown'],-80.00286879,40.44020351,2,1,
+IA6PfHhZ9MPfBBvyVBIJpg,Bottom Dollar Food,"['Food', 'Discount Store', 'Grocery', 'Shopping']",4,4,['Bloomfield'],-79.939789,40.464219,2,1,0
+YiUoOtJc6xCq0-ZFJCocvA,Pink Box Bakery Cafe,"['Bakeries', 'Food', 'Coffee & Tea', 'Desserts']",4,24,['Squirrel Hill'],-79.92315495,40.43338425,1,1,1
+E74dLL-EkPI-abuJuWk2lg,Dulcinea Bakeshop,"['Bakeries', 'Food']",4.5,3,['Strip District'],-79.9777282,40.45535058,1,1,0
+ryqYlw3F5MPIHXJylSjD0A,Chick'n Bubbly,"['Food', 'Bubble Tea', 'Korean', 'Chicken Wings', 'Restaurants']",4,32,['Oakland'],-79.957181,40.441932,1,1,1
+r-_R6lG3HWU8WYw0Zk23fA,Bartram House Bakery,"['Bakeries', 'Food', 'Cafes', 'Desserts', 'Restaurants']",4,12,['South Side'],-79.9681119,40.4273732,2,1,1
+NCXJzB9DcuNs49a8eZp19w,Blowfish BBQ,"['Food', 'Food Trucks']",5,6,['Downtown'],-79.9958864,40.4406248,1,,0
+yJ_k2f-h9LxjWdbMMqzpsA,Simple Ingredients,"['Food', 'Soup', 'Juice Bars & Smoothies', 'Salad', 'Restaurants']",4.5,5,['Downtown'],-79.99949912,40.44261044,1,1,0
+a0n2kpuMZoep8crmDhM9VQ,Lomito,"['Food', 'Latin American', 'Sandwiches', 'Food Trucks', 'Restaurants']",4.5,4,['Bloomfield'],-79.9478264,40.4607908,2,1,1
+yILlq-CZQp2aPw3VgEJnxA,BnD'z Burgerz & Dogz,"['Food', 'Burgers', 'Hot Dogs', 'Desserts', 'Restaurants']",4,10,[],-80.043926,40.381252,2,1,0
+6KrFqm5q4ZZAYxTRaxdCSw,Life Is Sweet Bakery Cafe,"['Bakeries', 'Food', 'Cupcakes']",4.5,3,[],-80.068593,40.375527,2,1,0
+Q59ZOPi3T_O4l2vpt74a8Q,Salud Juicery,"['Food', 'Juice Bars & Smoothies']",5,7,['Shadyside'],-79.9345853,40.4512017,2,1,1
+Ni9C6R4ULJKxM2TV8eMdAQ,parker's PGH,"['Food', 'Breakfast & Brunch', 'Bagels', 'Sandwiches', 'Restaurants']",5,8,['Dormont'],-80.0350933,40.3955488,1,1,0
+0h2My97xjAjc1pNrMM266Q,Five Points Artisan Bakeshop,"['Bakeries', 'Food']",4.5,7,['Squirrel Hill'],-79.9169098,40.4442936,1,1,1
+,,,,,,,,,,
